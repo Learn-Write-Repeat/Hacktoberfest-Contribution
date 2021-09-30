@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution">
-        <img src="https://i.imgur.com/qK04Vou.png" >
+        <img src="https://i.imgur.com/tR00T51.png" >
     </a>
 </p>
 
