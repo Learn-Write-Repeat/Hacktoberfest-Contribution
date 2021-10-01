@@ -45,5 +45,15 @@
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Image_Analysis_using_Azure/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Image_Analysis_using_Azure/"
     }
+    {
+      "name": "Syed Mustafa Imam",
+      "github_username": "SyedMustafaImam",
+      "image_url": "https://avatars.githubusercontent.com/u/64550133?v=4",
+      "title": "Grocery List App",
+      "short_description": "Creates a list of groceries with the prices",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Grocery_List_using_Nodejs/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Grocery_List_using_Nodejs/"
+    }
+
   ]
 }
