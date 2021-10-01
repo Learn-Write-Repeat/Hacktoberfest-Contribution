@@ -70,7 +70,7 @@
       "title": "Strong Random password genrator and saver using nodejs, expressjs and mongodb",
       "short_description": "this is a nodejs based random password genrator which genrates random password of variable length and datatype (include numbers, special characters)",
       "page_url": "https://onepass01.herokuapp.com/",
-      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/random_password_genrator_and_saver_using_nodejs_and_mongodb/"
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/contributions/random_password_genrator_and_saver_using_nodejs_and_mongodb/"
     }
   ]
 }
