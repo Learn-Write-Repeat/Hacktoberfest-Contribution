@@ -44,6 +44,15 @@
       "short_description": "A mini project, which is used to Analyze images using Microsoft Azure",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Image_Analysis_using_Azure/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Image_Analysis_using_Azure/"
+    },
+    {
+      "name": "Surendar Singh",
+      "github_username": "SurendarSingh",
+      "image_url": "https://avatars.githubusercontent.com/u/73299971?v=4",
+      "title": "Drum Kit Website",
+      "short_description": "Website which can play few instruments sounds on keyboard press",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/drum_kit_website/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/drum_kit_website/"
     }
   ]
 }
