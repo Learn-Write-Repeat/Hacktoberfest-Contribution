@@ -26,7 +26,7 @@
 
 This repository is for anyone around the globe who wants to start their open-source journey with Hacktoberfest. The purpose of this repository is to learn and share knowledge.
 
-We do not recommend adding just a whte-space or Hello World application. Please try to keep your contribution good, as we believe in Quality, and not Quantity. We'll thoroughly go through each PR, and if it doesn't have quality, it won't be accepted.
+We do not recommend adding just a white-space or Hello World application. Please try to keep your contribution good, as we believe in Quality, and not Quantity. We'll thoroughly go through each PR, and if it doesn't have quality, it won't be accepted.
 
 ## Table of content
 - [Hacktoberfest](#hacktoberfest)
