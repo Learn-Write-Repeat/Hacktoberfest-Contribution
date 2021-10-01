@@ -10,21 +10,23 @@
 
 <a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
 <a href="https://github.com/ashutoshkrris/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
-<a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution"><img src="https://img.shields.io/github/repo-size/Learn-Write-Repeat/Hacktoberfest-Contributions.svg?label=Repo%20size&style=flat"></a>
-<a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution"><img src="https://img.shields.io/tokei/lines/github/Learn-Write-Repeat/Hacktoberfest-Contributions?color=yellow&label=Lines%20of%20Code"></a>
+<a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution"><img src="https://img.shields.io/github/repo-size/Learn-Write-Repeat/Hacktoberfest-Contribution.svg?label=Repo%20size&style=flat"></a>
+<a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution"><img src="https://img.shields.io/tokei/lines/github/Learn-Write-Repeat/Hacktoberfest-Contribution?color=yellow&label=Lines%20of%20Code"></a>
 <a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?v=103"></a>
-<a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/watchers"><img src="https://img.shields.io/github/watchers/Learn-Write-Repeat/Hacktoberfest-Contributions"></a>
+<a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/watchers"><img src="https://img.shields.io/github/watchers/Learn-Write-Repeat/Hacktoberfest-Contribution"></a>
   
-<a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/graphs/contributors"><img src="https://img.shields.io/github/contributors/Learn-Write-Repeat/Hacktoberfest-Contributions?color=brightgreen"></a>
-<a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/stargazers"><img src="https://img.shields.io/github/stars/Learn-Write-Repeat/Hacktoberfest-Contributions?color=0059b3"></a>
-<a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/network/members"><img src="https://img.shields.io/github/forks/Learn-Write-Repeat/Hacktoberfest-Contributions?color=yellow"></a>
-<a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/issues"><img src="https://img.shields.io/github/issues/Learn-Write-Repeat/Hacktoberfest-Contributions?color=brightgreen"></a>
-<a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/Learn-Write-Repeat/Hacktoberfest-Contributions?color=0059b3"></a>
-<a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/pulls"><img src="https://img.shields.io/github/issues-pr/Learn-Write-Repeat/Hacktoberfest-Contributions?color=yellow"></a>
-<a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/Learn-Write-Repeat/Hacktoberfest-Contributions?color=brightgreen"></a> 
+<a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/graphs/contributors"><img src="https://img.shields.io/github/contributors/Learn-Write-Repeat/Hacktoberfest-Contribution?color=brightgreen"></a>
+<a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/stargazers"><img src="https://img.shields.io/github/stars/Learn-Write-Repeat/Hacktoberfest-Contribution?color=0059b3"></a>
+<a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/network/members"><img src="https://img.shields.io/github/forks/Learn-Write-Repeat/Hacktoberfest-Contribution?color=yellow"></a>
+<a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/issues"><img src="https://img.shields.io/github/issues/Learn-Write-Repeat/Hacktoberfest-Contribution?color=brightgreen"></a>
+<a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/Learn-Write-Repeat/Hacktoberfest-Contribution?color=0059b3"></a>
+<a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/pulls"><img src="https://img.shields.io/github/issues-pr/Learn-Write-Repeat/Hacktoberfest-Contribution?color=yellow"></a>
+<a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/Learn-Write-Repeat/Hacktoberfest-Contribution?color=brightgreen"></a> 
 </div>
 
 This repository is for anyone around the globe who wants to start their open-source journey with Hacktoberfest. The purpose of this repository is to learn and share knowledge.
+
+We do not recommend adding just a whte-space or Hello World application. Please try to keep your contribution good, as we believe in Quality, and not Quantity. We'll thoroughly go through each PR, and if it doesn't have quality, it won't be accepted.
 
 ## Table of content
 - [Hacktoberfest](#hacktoberfest)
@@ -90,7 +92,7 @@ Once you are ready with the setup, follow the below guidelines:
             "image_url": "https://avatars.githubusercontent.com/u/47353498?v=4",
             "title": "Python API Tutorial",
             "short_description": "In this Python API tutorial, we’ll learn how to retrieve data using requests library. There are millions of APIs online which provide access to data.",
-            "folder_url": "https://contribute.devincept.com/Hacktoberfest-Contributions/contributions/python-api-tutorial/"
+            "folder_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/python-api-tutorial/"
         }
     ]
 }
@@ -106,7 +108,7 @@ Once you are ready with the setup, follow the below guidelines:
             "image_url": "https://avatars.githubusercontent.com/u/47353498?v=4",
             "title": "Python API Tutorial",
             "short_description": "In this Python API tutorial, we’ll learn how to retrieve data using requests library. There are millions of APIs online which provide access to data.",
-            "folder_url": "https://contribute.devincept.com/Hacktoberfest-Contributions/contributions/python-api-tutorial/"
+            "folder_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/python-api-tutorial/"
         },
         {
             "name": "Your Name Here",
@@ -114,7 +116,7 @@ Once you are ready with the setup, follow the below guidelines:
             "image_url": "Your Image URL",
             "title": "Title of your Contribution",
             "short_description": "Short description of your contribution",
-            "folder_url": "https://contribute.devincept.com/Hacktoberfest-Contributions/contributions/<your-folder-name>/"
+            "folder_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/<your-folder-name>/"
         }
     ]
 }
@@ -131,7 +133,7 @@ Once you are ready with the setup, follow the below guidelines:
 ### Contributors
 
 <a href="https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Learn-Write-Repeat/Hacktoberfest-Contributions" />
+  <img src="https://contrib.rocks/image?repo=Learn-Write-Repeat/Hacktoberfest-Contribution" />
 </a>
 
 <br>
