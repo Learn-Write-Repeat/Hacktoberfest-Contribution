@@ -21,8 +21,16 @@
             "github_username": "aritro66",
             "image_url": "https://avatars.githubusercontent.com/u/78261928?v=4",
             "title": "Snake ladder Game website using Javascript",
-            "short_description": "In this website we can snake ladder game (player vs computer) and is created using HTML, CSS and Javascript.",
+            "short_description": "In this website we can play snake ladder game (player vs computer) and is created using HTML, CSS and Javascript.",
             "folder_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/snake_ladder_web_game/"
+        },
+        {
+            "name": "Aritro Ghosh",
+            "github_username": "aritro66",
+            "image_url": "https://avatars.githubusercontent.com/u/78261928?v=4",
+            "title": "Calender website using Javascript",
+            "short_description": "In this website we can check date using calender in it and is created using HTML, CSS and Javascript.",
+            "folder_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/calender_using_javascript/"
         }
 
     ]

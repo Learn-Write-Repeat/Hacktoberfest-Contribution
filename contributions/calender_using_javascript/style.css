@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chivo&family=Luckiest+Guy&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    background-color: #333;
+}
+
+#display{
+    position: relative;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    width:40vw;
+    min-width: 250px;
+    height: 60vh;
+    /* min-height: 500px; */
+    background-color: white;
+    /* box-shadow: 0 3px 10px white; */
+}
+
+#monthstats{
+    width: 100%;
+    height: 40%;
+    /* background-color: antiquewhite; */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+#bar{
+    display: flex;
+    justify-content: space-between;
+    padding: 6px;
+    background-color: rgba(0,0,0,0.45);
+}
+#bar button{
+    display: block;
+    height: 5vh;
+    background-color: transparent;
+    border: none;
+}
+#bar i{
+    font-size: 3.5vh;
+    color: white;
+}
+#bar p{
+    color: white;
+    font-size: 3vh;
+    font-family: 'Chivo', sans-serif;
+}
+
+#calender{
+    width:100%;
+    height: 60%;
+    display: grid;
+    padding: 4vmin;
+    grid-template-columns: repeat(7,1fr);
+    grid-template-rows: repeat(7,1fr);
+
+}
+
+.date{
+    width: 100%;
+    height: 100%;
+    /* border:1px solid black; */
+    text-align: center;
+    
+    font-size:2.5vh ;
+    font-family: 'Libre Baskerville', serif;
+    /* padding: 10px; */
+}
+
+#calender div:nth-of-type(7n+1)
+{
+    color: red;
+}
+
+#calender div:nth-child(1),#calender div:nth-child(2),#calender div:nth-child(3),#calender div:nth-child(4),#calender div:nth-child(5),#calender div:nth-child(6),#calender div:nth-child(7)
+{
+    border-bottom: 1px solid #333;
+}
+
+.active{
+    background-color: rgb(243,83,129);
+
+}
+@media screen and (max-width:1000px){
+    #display{
+    width:50vw;
+
+    }
+    
+}
