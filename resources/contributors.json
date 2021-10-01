@@ -30,7 +30,6 @@
     {
       "name": "Japneet Kaur",
       "github_username": "japneetbhatia",
-      "image_url": "https://avatars.githubusercontent.com/u/56752427?v=4",
       "title": "Analog Clock",
       "short_description": "Created analog clock using HTML,CSS and Javascript.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/analog-Clock/",
@@ -44,6 +43,14 @@
       "short_description": "A mini project, which is used to Analyze images using Microsoft Azure",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Image_Analysis_using_Azure/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Image_Analysis_using_Azure/"
+    },
+    {
+      "name": "Japneet Kaur",
+      "github_username": "japneetbhatia",
+      "title": "Calculator",
+      "short_description": "Created Simple Calculator using HTML,CSS and Javascript.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/analog-Clock/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/calculator/"
     }
   ]
 }
