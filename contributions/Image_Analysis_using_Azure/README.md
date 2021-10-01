@@ -14,3 +14,6 @@ Also, to use this project, you need to put the image, whose analysis you want in
 
 Finally, run the project using the command :
 `python ImageAnalysis.py`
+
+After running the above command, you will get an output like this :
+![img_ana_hacto](https://user-images.githubusercontent.com/65843257/135601870-0a9041d3-4d62-4e45-9472-8d9031305b34.jpg)
