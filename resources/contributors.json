@@ -15,6 +15,14 @@
             "title": "Music creation website using Javascript",
             "short_description": "In this website created using HTML,CSS and Javascript, we can create different sounds by tapping on diffferent taps.",
             "folder_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/music_creation_using_javascript/"
+        },
+        {
+            "name": "Japneet Kaur",
+            "github_username": "japneetbhatia",
+            "image_url": "https://avatars.githubusercontent.com/u/76939279?v=4",
+            "title": "Analog Clock",
+            "short_description": "Created analog clock using HTML,CSS and Javascript.",
+            "folder_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/analog-clock/"
         }
     ]
 }
