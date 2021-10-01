@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html>
+
+<%- include("./partials/head.ejs") %>
+
+    <body>
+
+        <header>
+            <%- include( './partials/nav.ejs') %>
+
+        </header>
+        <main>
+
+            <ul class="sidenav" id="mobile-demo">
+                <li><a href="/">Home</a></li>
+                <li><a href="add-item">Add Item</a></li>
+                <!-- <li><a href="collapsible.html">Contact</a></li> -->
+            </ul>
+
+
+            <div class="container">
+                <h1 class="purple-text text-darken-4">Add Items</h1>
+                <p>Now please Add your items to the list here</p>
+
+
+                <div class="row">
+                    <form class="col s12" action="/items" method="POST">
+                        <div class="row">
+                            <div class="input-field col s6">
+                                <i class="material-icons prefix purple-text text-darken-4">shopping_cart</i>
+                                <input id="item_name" type="text" name="name" class="validate">
+                                <label for="item_name">Item name</label>
+                            </div>
+                            <div class="input-field col s6">
+                                <i class="material-icons prefix purple-text text-darken-4">request_quote</i>
+                                <input id="price" type="tel" name="price" class="validate">
+                                <label for="price">Price</label>
+                            </div>
+                        </div>
+                        <button class="btn deep-purple">Add Item</button>
+                    </form>
+                </div>
+
+        </main>
+
+
+
+
+        <!-- Footer -->
+        <footer>
+            <%- include( "./partials/footer.ejs") %>
+
+        </footer>
+
+    </body>
+
+</html>

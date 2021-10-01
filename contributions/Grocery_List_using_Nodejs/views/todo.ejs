@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+
+<html>
+
+<%- include('./partials/head.ejs') %>
+
+<body>
+
+    <header>
+        <%- include( './partials/nav.ejs') %>
+
+    </header>
+
+    <main>
+        </div>
+
+
+        <div id="itemContainer" class="container">
+
+            <h1 class="purple-text text-darken-4">Todo List App</h1>
+            <p>Welcome to my todo list</p>
+
+            <ul class="collection with-header">
+
+
+                <%  if(items.length>0){ %>
+                <%      items.forEach(item => { %>
+                <li class="collection-item">
+                    <div>
+                        <a href="/items/<%=item.id%>">
+
+                            <%=item.name%>
+                            <%=item.price%> Rs
+                        </a>
+
+                        <a href="#!" class="secondary-content">
+                            <i class="material-icons purple-text text-darken-4" data-id="<%=item.id%>">delete</i>
+                        </a>
+                        <a class="secondary-content modal-trigger" href="#edit_item_model">
+                            <i class="material-icons purple-text text-darken-4" data-id="<%=item.id%>">edit</i>
+                        </a>
+                    </div>
+                </li>
+
+                <%  }) %>
+
+                <%  }else{ %>
+                <li>There are no Items</li>
+                <%  } %>
+
+            </ul>
+
+        </div>
+    </main>
+
+    <!-- Modal Structure for the edit menue-->
+    <div id="edit_item_model" class="modal">
+        <div class="modal-content">
+            <h4>Edit Item</h4>
+            <form id="edit_form" action="">
+                <input type="text" name="name" placeholder="item name">
+                <input type="number" name="price" placeholder="item price">
+
+
+        </div>
+        <div class="modal-footer">
+            <button class="btn waves-effect waves-purple deep-purple">UPDATE</button>
+
+        </div>
+        </form>
+
+    </div>
+    <script>
+        var update_id;
+        document.addEventListener('DOMContentLoaded', function () {
+            var elems = document.querySelectorAll('.modal');
+            var instances = M.Modal.init(elems);
+        });
+
+        edit_form.onsubmit = async function (e) {
+            e.preventDefault();
+            let data = new FormData(edit_form);
+
+            // for printing the data from the contact form      
+            // for(var pair of data.entries()){
+            //     console.log(pair[0]  + ', ' + pair[1]);
+            // }
+
+            let response = await fetch(`/items/${update_id}`, {
+            method: 'PUT',
+            body: new URLSearchParams(data),
+            headers: new Headers({
+                'Content-type': 'application/x-www-form-urlencoded; charset=UTF-8'
+            })
+        })
+        let result = await response.json()
+        edit_form.reset();
+        window.location.reload();
+        alert(result.msg);
+    }
+
+        itemContainer.onclick = (e) => {
+            console.log(e.target.textContent);
+            console.log(e.target.getAttribute('data-id'));
+            update_id = e.target.getAttribute('data-id');
+            if (e.target.textContent === 'delete') {
+
+                const endpoint = `/items/${update_id}`;
+                fetch(endpoint, {
+                        method: 'DELETE'
+                    }).then(res => res.json()).then(data => {
+                        console.log(data);
+                        window.location.href = data.redirect;
+                    })
+                    .catch(err => console.log(err))
+            }
+
+            if (e.target.textContent === 'edit') {
+                update_id = e.target.getAttribute('data-id');
+                console.log(update_id);
+            }
+        }
+    </script>
+    <!-- Footer -->
+
+    <footer>
+
+        <%- include( './partials/footer.ejs') %>
+
+    </footer>
+
+
+</body>
+
+</html>
