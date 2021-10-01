@@ -1,0 +1,38 @@
+  body{
+    background-color: #345B63;
+  }
+  h1{
+    font-family: 'Gluten', cursive;
+    color: #C4FB6D;
+    font-size: 5rem;
+    text-shadow: 5px 0 #232931;
+  }
+  p{
+    font-family: 'Indie Flower', cursive;
+    color: #C4FB6D;
+    font-size: 3rem;
+  }
+  img{
+    width: 80%;
+  }
+  footer{
+    text-align: center;
+    margin-top: 5%;
+  }
+  a{
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.5rem;
+    color: #EEEEEE;
+    text-decoration: none;
+    text-align: center;
+  }
+  .container{
+    text-align: center;
+    width: 70%;
+    margin: auto;
+  }
+.dice{
+  display: inline-block;
+  text-align: center;
+  margin: 0 5% 0 5%;
+}
