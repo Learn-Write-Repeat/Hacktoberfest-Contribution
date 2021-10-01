@@ -16,7 +16,16 @@
             "short_description": "In this website created using HTML,CSS and Javascript, we can create different sounds by tapping on diffferent taps.",
             "folder_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/music_creation_using_javascript/"
         },
-        {
+        
+            "name": "Aritro Ghosh",
+            "github_username": "aritro66",
+            "image_url": "https://avatars.githubusercontent.com/u/78261928?v=4",
+            "title": "Snake ladder Game website using Javascript",
+            "short_description": "In this website we can snake ladder game (player vs computer) and is created using HTML, CSS and Javascript.",
+            "folder_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/snake_ladder_web_game/"
+
+        },
+        
             "name": "Japneet Kaur",
             "github_username": "japneetbhatia",
             "image_url": "https://avatars.githubusercontent.com/u/76939279?v=4",
@@ -24,5 +33,6 @@
             "short_description": "Created analog clock using HTML,CSS and Javascript.",
             "folder_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/analog-clock/"
         }
+
     ]
 }
