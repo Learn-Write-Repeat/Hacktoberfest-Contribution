@@ -7,7 +7,7 @@
       "title": "Python API Tutorial",
       "short_description": "In this Python API tutorial, we’ll learn how to retrieve data using requests library. There are millions of APIs online which provide access to data.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/python-api-tutorial/",
-      "folder_url":"https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/python-api-tutorial"
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/python-api-tutorial"
     },
     {
       "name": "Abhay Kumar Ray",
@@ -44,7 +44,8 @@
       "short_description": "A mini project, which is used to Analyze images using Microsoft Azure",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Image_Analysis_using_Azure/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Image_Analysis_using_Azure/"
-    }
+    },
+    {
       "name": "Sri Vishnu R",
       "github_username": "Sri-vishnu-r1431",
       "image_url": "",
@@ -52,5 +53,6 @@
       "short_description": "A mini project, which is used to play Rock paper Scissor game done with HTML,CSS,Js",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Rock_Paper_Scissor/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Rock_Paper_Scissor/"
+    }
   ]
 }
