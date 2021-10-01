@@ -2,7 +2,7 @@
 In my daily life, I face the problem of making a grocery list without any application installed on my smartphone. Therefore I created this application to create a grocery list with the prices so I know that what things I should buy at what prices. 
  
 <br>
-### Technologies Used
+## Technologies Used
 <ul>
 <li>Node</li>
 <li>Express</li>
