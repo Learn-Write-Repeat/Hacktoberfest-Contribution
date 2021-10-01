@@ -1,0 +1,31 @@
+{
+  "name": "new_webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Priyanshu",
+  "license": "ISC",
+  "dependencies": {
+    "connect-mongo": "^4.5.0",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.1",
+    "express-session": "^1.17.2",
+    "expressjs": "^1.0.1",
+    "layout": "^2.2.0",
+    "mongodb": "^4.1.0",
+    "mongoose": "^5.13.8",
+    "nodemon": "^2.0.13",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  }
+}

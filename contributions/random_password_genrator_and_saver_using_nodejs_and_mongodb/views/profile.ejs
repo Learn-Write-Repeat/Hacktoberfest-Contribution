@@ -1,0 +1,27 @@
+
+<div class = "profile-page">
+<h2 class = "profile-name">Hello, <%= user.name %> </h2>
+
+
+
+<a href="/addnew" class ="profile-link"> want to add a new password</a>
+<div class = "passwordlist">
+    <div class = "passwordinnerdiv">
+        <h1>Here is the list of all your passowrds</h1>
+        <ul>
+            <% for(password of passwordlist) { %>
+    
+                
+                    <li><p>for social site : <%= password.socialhandel %> </p>
+                        <p class = "password-p"> Password : <%= password.password %> </p>
+   
+                    </li>
+            
+            <%}%>
+
+  
+        </ul>
+    </div>
+    
+</div>
+</div>

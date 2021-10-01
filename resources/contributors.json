@@ -62,6 +62,15 @@
       "short_description": "Created Simple Calculator using HTML,CSS and Javascript.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/calculator/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/calculator/"
+    },
+    {
+      "name": "Priyanshu Rajput",
+      "github_username": "Priyanshu-rajput-01",
+      "image_url": "https://avatars.githubusercontent.com/u/76838551?s=400&u=067fcff61d10a454f7d243739c028e2647a1d2e2&v=4",
+      "title": "Strong Random password genrator and saver using nodejs, expressjs and mongodb",
+      "short_description": "this is a nodejs based random password genrator which genrates random password of variable length and datatype (include numbers, special characters)",
+      "page_url": "https://onepass01.herokuapp.com/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/random_password_genrator_and_saver_using_nodejs_and_mongodb/"
     }
   ]
 }

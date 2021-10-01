@@ -1,0 +1,25 @@
+<div id = "main">
+<h2>Welcome to 1Pass</h2>
+<p>A one place solution to all your passwords, So u have one thing less to remember</p>
+
+
+<% if(locals.user) { %>
+    <a href="/addnew" class = "btn-main"> <p>Create New</p> </a>
+    <a href="/sign-out" class = " btn-main"><p>Logout</p> </a>
+        
+        <% } else {%>
+
+        <a href="/signup" class = " btn-main"><p> SignUp</p></a>
+        <a href="/sign-in" class = " btn-main"><p>SignIn</p> </a>
+
+
+        <% } %>
+    
+    <p>total passwords created till now : <%= number %> </p>
+
+
+
+
+</div>
+
+
