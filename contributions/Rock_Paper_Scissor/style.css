@@ -1,0 +1,70 @@
+
+*{
+box-sizing: border-box;
+}
+body{
+    background-color: rgba(83, 83, 83, 0.055);
+
+}
+#result1,#result2{
+    display:none;
+}
+#heading{
+    width:430px;
+    margin:0 auto;
+    margin-top: 20px;
+    font-size: 32px;
+    
+}
+.score-select{
+    font-size:15px;
+    width:180px;
+    display:block;
+    margin:0 auto;
+    text-align:center;
+
+}
+.score{
+    width:48px;
+    height:2rem;
+    margin:20px auto;
+
+}
+.score h1{
+    display:block;
+    height: 32px;
+    
+    margin:0 auto;
+}
+.container{
+    display: block;
+    background-color: white !important;
+    height:475px;
+    width:675px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    margin:0 auto;
+     font-family: 'IBM Plex Sans Arabic', sans-serif;;
+}
+img{
+ width:10rem;
+ height:10rem;
+ border-radius: 40%;
+ margin-right:24.5px;
+ margin-left:24.5px;
+ transition: all-ease 0.2s;
+ border:2px solid antiquewhite;
+}
+.actions{
+    width:95%;
+    margin:0 auto;
+}
+
+img:hover{
+    border: 21px solid black;
+   }
+.reset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock Papar Scisccor</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@300&display=swap" rel="stylesheet">
+
+
+</head>
+
+<body>
+    <div class="container">
+        <h1 id="heading">Rock Paper Scisscor Game</h1>
+        <div class="score-select">
+            <label for="scoreselect">
+                <h1>Playing for:</h1>
+            </label>
+            <select name="scoreselect" id="scoreselect">
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+            </select>
+        </div>
+        <div class="score">
+            <h1 id="result1">Game Over Computer Wins</h1>
+            <h1 id="result2">Game Over Player Wins</h1>
+            <h1 id="result"><span id="playerscore">0</span>:<span id="enemyscore">0</span></h1>
+        </div>
+
+        <div class="actions">
+
+            <img src="download (1).png" alt="rock" id="img1">
+            <img src="download (2).png" alt="paper" id="img2">
+            <img src="download.png" alt="Scisccor" id="img3">
+
+        </div>
+        <div class="reset">
+            <button>Reset</button>
+        </div>
+
+    </div>
+    <script src="app.js"></script>
+</body>
+
+</html>
