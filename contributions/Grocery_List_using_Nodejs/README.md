@@ -31,4 +31,15 @@ In my daily life, I face the problem of making a grocery list without any applic
 7. Boom now make your entries. 
 
 
+## Screenshots 
+![Screenshot 1](https://user-images.githubusercontent.com/64550133/135657621-8ad297a6-3a97-46d3-8f3a-f462b1970db7.png)
+
+![Screenshot 2](https://user-images.githubusercontent.com/64550133/135657665-c72446c0-33e4-450b-a42f-650056808a49.png)
+
+![Screenshot 3](https://user-images.githubusercontent.com/64550133/135657677-2e215ef9-dc26-4a5b-ba15-1de38e48bbbd.png)
+
+![Screenshot 4](https://user-images.githubusercontent.com/64550133/135657697-dd25ec7d-d5d8-477a-afb2-4deb4192c91f.png)
+
+
+
 
