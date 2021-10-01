@@ -1,6 +1,6 @@
 $(function () {
   $.getJSON(
-    "/Hacktoberfest-Contribution/resources/contributors.json",
+    "resources/contributors.json",
     function (data) {
       $.each(data.contributors, function (i, contributor) {
         var contributorCol = `
