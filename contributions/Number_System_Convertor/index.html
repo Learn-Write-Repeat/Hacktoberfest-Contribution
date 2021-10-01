@@ -1,1 +1,65 @@
 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="converter.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+
+    <title>Converter</title>
+</head>
+
+<body>
+    <form>
+        <div class="outline">
+            <h2 id="heading">Origin</h2>
+            <div class="grp">
+
+                <div class="base ">
+                    <input type="radio" name="1" value="decimal" id="decimal">
+                    <label for="decimal">Decimal</label>
+                    <input type="radio" name="1" value="Hexadecimal" id="hexadecimal">
+                    <label for="hexadecimal">Hexadecimal</label>
+                    <input type="radio" name="1" value="Binary" id="binary">
+                    <label for="binary">Binary</label>
+                    <input type="radio" name="1" value="Octal" id="octal">
+                    <label for="octal">Octal</label>
+                </div>
+            </div>
+            <h2 id="heading">Converted to</h2>
+            <div class="grp">
+
+                <div class="base ">
+                    <input type="radio" name="2" value="decimal" id="decimal2">
+                    <label for="decimal2">Decimal</label>
+                    <input type="radio" name="2" value="Hexadecimal" id="hexadecimal2">
+                    <label for="hexadecimal2">Hexadecimal</label>
+                    <input type="radio" name="2" value="Binary" id="binary2">
+                    <label for="binary2">Binary</label>
+                    <input type="radio" name="2" value="Octal" id="octal2">
+                    <label for="octal2">Octal</label>
+                </div>
+            </div>
+            <div class="input-table">
+                <div class="column2">
+                    <p for="base" class="input-box">Enter base:</p>
+                    <input type="text" id="base" name="base">
+
+                    <p for="2base" id="innertxt" class="input-box">Result:</p>
+                    <div class="rs">
+                        <div id="result"></div>
+                    </div>
+
+                    <button type="button" id="submit" class="btn btn-light">Submit</button>
+
+                </div>
+            </div>
+        </div>
+    </form>
+    <script src="converter.js"></script>
+</body>
+
+</html>
