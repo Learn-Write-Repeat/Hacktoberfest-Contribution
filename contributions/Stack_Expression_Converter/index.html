@@ -1,1 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Stack_converter.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+
+    <title>Converter</title>
+</head>
+
+<body>
+    <form>
+        <div class="outline">
+            <h2 id="heading">Origin</h2>
+            <div class="grp">
+
+                <div class="base ">
+                    <input type="radio" name="1" value="Infix" id="infix">
+                    <label for="infix">Infix</label>
+                    <input type="radio" name="1" value="Postfix" id="postfix">
+                    <label for="postfix">Postfix</label>
+                    <input type="radio" name="1" value="Prefix" id="prefix">
+                    <label for="prefix">Prefix</label>
+
+                </div>
+            </div>
+            <h2 id="heading">Converted to</h2>
+            <div class="grp">
+
+                <div class="base ">
+                    <input type="radio" name="2" value="Infix" id="infix1">
+                    <label for="infix1">Infix</label>
+                    <input type="radio" name="2" value="Postfix" id="postfix1">
+                    <label for="postfix1">Postfix</label>
+                    <input type="radio" name="2" value="Prefix" id="prefix1">
+                    <label for="prefix1">Prefix</label>
+
+                </div>
+            </div>
+            <div class="input-table">
+                <div class="column2">
+                    <p for="base" class="input-box">Enter base:</p>
+                    <input type="text" id="base" name="base">
+                    <p for="2base" id="innertxt" class="input-box">Result:</p>
+                    <div class="rs">
+                        <div id="result"></div>
+                    </div>
+                    <button id="submit" type="button" class="btn btn-light">Submit</button>
+
+                </div>
+            </div>
+        </div>
+    </form>
+    <script src="stack_converter.js"></script>
+</body>
+
+</html>
