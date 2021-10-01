@@ -7,16 +7,19 @@ $(function () {
       <div class="col-lg-12 mb-4">
             <div class="card">
               <div class="card-body">
-                <h4 class="card-title"><a href="${contributor.folder_url}" target="_blank" class="post-title">${contributor.title}</a></h4>
+                <h4 class="card-title"><a href="${contributor.page_url}" target="_blank" class="post-title">${contributor.title}</a></h4>
                 <h5 class="card-text mt-4">${contributor.short_description}</h5>
                 <br />
-                <a href="https://github.com/${contributor.github_username}" target="_blank" class="username">
+                <a href="https://github.com/${contributor.github_username}" target="_blank" class="username"> 
                   <img
                     src="${contributor.image_url}"
                     alt="DP"
-                    class="rounded-circle img-fluid mr-2"
+                    class="rounded-circle img-fluid mr-3"
                     width="40"
                     height="40"/>${contributor.name}</a>
+                    
+                <a href="${contributor.folder_url}" target="_blank"
+                  class="btn btn-outline-dark btn-sm ml-3"><i class="fab fa-github" aria-hidden="true"></i> View</a>
               </div>
             </div>
           </div>

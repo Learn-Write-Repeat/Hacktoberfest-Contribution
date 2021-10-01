@@ -85,14 +85,15 @@ Once you are ready with the setup, follow the below guidelines:
 1. Go to `resources/contributors.json` file, where you will find other contributor details as:
 ```json
 {
-    "contributors":[
+    "contributors": [
         {
             "name": "Ashutosh Krishna",
             "github_username": "ashutoshkrris",
             "image_url": "https://avatars.githubusercontent.com/u/47353498?v=4",
             "title": "Python API Tutorial",
             "short_description": "In this Python API tutorial, we’ll learn how to retrieve data using requests library. There are millions of APIs online which provide access to data.",
-            "folder_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/python-api-tutorial/"
+            "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/python-api-tutorial/",
+            "folder_url":"https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/python-api-tutorial"
         }
     ]
 }
@@ -108,7 +109,8 @@ Once you are ready with the setup, follow the below guidelines:
             "image_url": "https://avatars.githubusercontent.com/u/47353498?v=4",
             "title": "Python API Tutorial",
             "short_description": "In this Python API tutorial, we’ll learn how to retrieve data using requests library. There are millions of APIs online which provide access to data.",
-            "folder_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/python-api-tutorial/"
+            "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/python-api-tutorial/",
+            "folder_url":"https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/python-api-tutorial"
         },
         {
             "name": "Your Name Here",
@@ -116,13 +118,14 @@ Once you are ready with the setup, follow the below guidelines:
             "image_url": "Your Image URL",
             "title": "Title of your Contribution",
             "short_description": "Short description of your contribution",
-            "folder_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/<your-folder-name>/"
+            "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/<your-folder-name>/",
+            "folder_url":"https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/<your-folder-name>/"
         }
     ]
 }
 ```
 
-> **Note : For the folder_url, just replace `<your-folder-name>` with the name of your folder.**
+> **Note : For the `folder_url` and `page_url`, just replace `<your-folder-name>` with the name of your folder.**
 
 
 ### Resources
