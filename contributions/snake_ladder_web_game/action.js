@@ -37,9 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
         chk2=1;
         document.getElementById('Menu').style.display='none';
     });
-    document.getElementById('quit').addEventListener('click',()=>{
-        window.close();
-    });
+    
     document.getElementById('close').addEventListener('click',()=>{
         if(chk2==1)
         {
