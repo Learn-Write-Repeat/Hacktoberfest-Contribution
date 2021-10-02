@@ -1,6 +1,6 @@
 # A simple script to bulk resize images.
 
-##libraries used 
+## libraries used 
 - Pil (This is used because its quick and better than the deprecated scipy imgresize)
 - os (This is used for os related tasks)
 
