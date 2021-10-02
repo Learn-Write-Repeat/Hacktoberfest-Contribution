@@ -89,6 +89,14 @@
       "short_description": "If you are not able to come to a decision you can use decision dice to test your luck!",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Decision_Dice/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Decision_Dice/"
+    },
+    {
+      "name": "Nitin Diwakar",
+      "github_username": "Nitin-Diwakar",
+      "image_url": "https://avatars.githubusercontent.com/u/72300414?v=4",
+      "title": "Password Generator",
+      "short_description": "A app to make a strong password for your every account.",
+      "folder_url": "https://github.com/Nitin-Diwakar/Hacktoberfest-Contribution/tree/master/contributions/Password%20Generator"
     }
   ]
 }
