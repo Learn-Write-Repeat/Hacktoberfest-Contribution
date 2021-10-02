@@ -80,6 +80,24 @@
       "short_description": "Created Simple Calculator using HTML,CSS and Javascript.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/calculator/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/calculator/"
+    },
+    {
+      "name": "Surendar Singh",
+      "github_username": "SurendarSingh",
+      "image_url": "https://avatars.githubusercontent.com/u/73299971?v=4",
+      "title": "Drum Kit Website",
+      "short_description": "Website which can play few instruments sounds on keyboard press",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/drum_kit_website/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/drum_kit_website/"
+    },
+     {
+      "name": "Aditya Tiwari",
+      "github_username": "devloper016",
+      "image_url": "https://avatars.githubusercontent.com/u/85797633?v=4",
+      "title": "Decision Dice",
+      "short_description": "If you are not able to come to a decision you can use decision dice to test your luck!",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Decision_Dice/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Decision_Dice/"
     }
   ]
 }
