@@ -1,0 +1,302 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body{
+    background-color: rgb(32,32,43);
+    color: white;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+
+  
+
+    
+}
+#layout-header{
+    background-color: rgb(36,37,45);
+    
+    padding-left: 10px;
+    
+}
+#layout-header .mini-logo a{
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 20px;
+}
+form{
+    display: grid;
+    grid-template-columns: auto auto;
+    row-gap: 1rem;
+    column-gap: 2rem;
+    margin: 2rem;
+    
+  
+
+
+}
+form label{
+    font-weight: bold;
+}
+
+#form-container{
+    width: 50%;
+    margin: 20px;
+    border-radius: 2rem;
+    padding: 4rem;
+    background-color: rgb(222,80,100);
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+}
+.container{
+    min-height: 600px;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#password-display{
+    display: flex;
+    justify-items: center;
+    border : 2px rgb(36,37,45) solid;
+    border-radius: 0.5rem;
+    width: 80%;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background: rgb(255,254,254);
+    color: rgb(36,37,45);
+    word-break: break-all;
+    padding: 1rem;
+    height: 2.5rem;
+    
+
+
+
+}
+.signup-header{
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+.signupinput{
+    border-radius: 0.5rem;
+    background: rgba(36,37,45,0.5);
+    color:rgb(255,254,254);
+}
+.createpassword{
+    border-radius: 0.5rem;
+    background: rgba(36,37,45,0.5);
+    color:rgb(255,254,254);
+}
+@media screen and (max-width: 480px){
+    #form-container{
+
+        margin-left:0px ;
+        margin-right: 0px;
+        
+    }
+
+    #password-display{
+        width: 85%;
+        height: 3.2rem;
+    }
+    #newuser{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        align-content: center;
+        justify-items: center;
+        justify-content: center;
+    }
+
+
+}
+.btn{
+    grid-column: span 2;
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    border: 1px white solid;
+    border-radius: 2rem;
+}
+.btn:hover{
+    background-color: white;
+    color: rgb(36,37,45);
+}
+.circular{
+    background: red;
+}
+.container{
+    display: flex;
+    width: 100%;
+    align-content: center;
+    justify-content: center;
+}
+#length{
+    background: rgb(36,37,45);
+    color: white;
+    border-radius: 0.5rem;
+    padding-left: 10px;
+    padding-right: 5px;
+
+}
+#socialhandel{
+    background-color: rgb(32,32,43);
+    color: rgb(255,254,254);
+    border-radius: 5px;
+}
+#socialhandel option:hover{ 
+    background-color: rgb(222,80,100);
+    color: rgb(255,254,254);
+}
+#socialhandel option{ 
+    border-radius: 100px;
+
+}
+
+#layout-footer{
+
+    padding: 2rem;
+    background-color: rgb(36,37,45);
+    display: flex;
+}
+#layout-footer .footer-nav li{
+    list-style: none;
+}
+
+.bottom-link{
+    text-decoration: none;
+    color: white;
+
+
+    
+
+}
+.passwordlist{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+
+
+}
+
+.passwordinnerdiv{
+    padding: 10px;
+    
+}
+
+.passwordinnerdiv ul li{
+    display: grid;
+    grid-template-columns: auto auto;
+    row-gap: 1rem;
+    column-gap: 2rem;
+    margin: 1rem;
+    background-color: rgb(222,80,100);
+    border-radius: 0.5em;
+    padding-left: 5px;
+
+}
+.passwordinnerdiv ul li p{
+    
+    color : rgb(255,254,254);
+    margin-left: 5px;
+
+
+
+}
+.password-p{
+    color:rgb(255,254,254);
+    font-weight: 800;
+}
+.error{
+    color: red;
+}
+#main{
+    min-height: 590px;
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-items: center;
+    align-items: center;
+}
+.profile-page{
+    min-height: 590px;
+}
+
+.profile-name{
+    margin: 32px;
+    justify-items: center;
+}
+
+
+
+
+
+.create{
+    margin: 20px;
+    text-decoration: none;
+    
+}
+.create:hover{
+    color: rgb(36,37,45);
+    cursor: pointer;
+
+}
+.create:visited{
+    color: blue;
+}
+.create:visited:hover{
+    color: white;
+
+}
+.profile-link{
+    color: wheat;
+    text-decoration: none;
+    margin: 20px;
+    
+}
+.profile-link:hover{
+    color: rgb(36,37,45);
+    cursor: pointer;
+
+}
+.profile-link:visited{
+    color: wheat;
+}
+.profile-link:visited:hover{
+    color: white;
+
+}
+.btn-main{
+    background-color: rgb(222,80,100);
+    text-decoration: none;
+    width: 10rem;
+    margin: 22px;
+    display: flex;
+    color: white;
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+    justify-content: center;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    border: 1px white solid;
+    border-radius: 2rem;
+}
+.btn-main:hover{
+    background-color: transparent;
+    
+    color: rgb(36,37,45);
+    color: rgb(222,80,100);
+}

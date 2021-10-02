@@ -49,15 +49,6 @@
       "name": "Sri Vishnu R",
       "github_username": "Sri-vishnu-r1431",
       "image_url": "https://avatars.githubusercontent.com/u/78591776?v=4",
-      "title": "Rock Paper Scissor game ",
-      "short_description": "A mini project, which is used to play Rock paper Scissor game done with HTML,CSS,Js",
-      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Rock_Paper_Scissor/",
-      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Rock_Paper_Scissor/"
-    },
-    {
-      "name": "Sri Vishnu R",
-      "github_username": "Sri-vishnu-r1431",
-      "image_url": "https://avatars.githubusercontent.com/u/78591776?v=4",
       "title": "Converter ",
       "short_description": "A Converter which is used to assit during conversions from one system to another system",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Number_System_Convertor/",
@@ -98,6 +89,15 @@
       "short_description": "If you are not able to come to a decision you can use decision dice to test your luck!",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Decision_Dice/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Decision_Dice/"
+    },
+    {
+      "name": "Priyanshu Rajput",
+      "github_username": "Priyanshu-rajput-01",
+      "image_url": "https://avatars.githubusercontent.com/u/76838551?s=400&u=067fcff61d10a454f7d243739c028e2647a1d2e2&v=4",
+      "title": "Strong Random password generator and saver using nodejs, expressjs and mongodb",
+      "short_description": "this is a nodejs based random password genrator which genrates random password of variable length and datatype (include numbers, special characters)",
+      "page_url": "https://onepass01.herokuapp.com/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/random_password_genrator_and_saver_using_nodejs_and_mongodb/"
     }
   ]
 }
