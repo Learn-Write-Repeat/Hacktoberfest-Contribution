@@ -89,6 +89,15 @@
       "short_description": "If you are not able to come to a decision you can use decision dice to test your luck!",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Decision_Dice/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Decision_Dice/"
-    }
+    },
+    {
+      "name": "Aswin Manmathan S ",
+      "github_username": "AswinAzikar",
+      "image_url": "https://avatars.githubusercontent.com/u/65263396?s=400&u=cec25ef1d290d813503573d7fefa9010281c59e9&v=4",
+      "title": "inspirational-quotes ",
+      "short_description": "Add Motivational quotes",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/inspirational-quotes/",
+      "folder_url":"https://github.com/AswinAzikar/inspirational-quotes/tree/master/data"
+  }
   ]
 }
