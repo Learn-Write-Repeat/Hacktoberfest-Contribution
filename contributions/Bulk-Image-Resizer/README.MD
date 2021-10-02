@@ -5,12 +5,12 @@ libraries used
 - os (This is used for os related tasks)
 
 How we access the image directories:
-img_dir = r'Image directory'
+```python	img_dir = r'Image directory' ```
 
 This is how we resize images, you can replace "80", "160" with the sizes you want.
-	img = img.resize((80, 160)
+```python	img = img.resize((80, 160) ```
   
   
 This gives the resized images it's name which is currently its old name with _resized at the end.
-	img.save(f + '_resized.jpg')
+	```python	img.save(f + '_resized.jpg') ```
 
