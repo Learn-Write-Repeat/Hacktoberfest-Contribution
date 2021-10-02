@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <%-style%>
+    <link rel="stylesheet" href="css/main.css">
+    <title>1pass</title>
+</head>
+<body>
+    <%- include('header')%>
+    <%- body %>
+        
+
+    <%- include('footer')%>
+    <script>
+        let newpassword = $(`#newpassword`);
+        if(newpassword){
+            newpassword.submit(function(e){
+            e.preventDefault();
+            $.ajax({
+            type :'post',
+            url : '/genrate',
+            data : newpassword.serialize(),
+            success: function(data){
+                let passwordtext = $(`#password-display`);
+                let passwordvalue= $(`#realpassword`);
+                passwordvalue.val(data.password.password);
+                console.log(passwordvalue.val());
+                passwordtext.text(data.password.password);
+            }
+
+        })
+        })
+            
+        }
+       
+    </script>
+
+
+</body>
+</html>

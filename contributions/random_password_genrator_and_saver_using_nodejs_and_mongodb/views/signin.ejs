@@ -1,0 +1,25 @@
+
+<div class="container">
+    <div id="form-container">
+       <h2 class = "signup-header">Signin</h2>
+    
+        <form action="/create-session" method="post" id = "newuser">
+            <label for="name">Name </label>
+        <input type="text" name="name" id="name" class = "signupinput" required>
+        
+        <label for="password">password</label>
+        <input type="password" name="password" id="password" class = "signupinput" required>
+        
+        <input type="submit" value="Signin" class = "btn">
+        
+        </form>
+        <p>Don't have a account <br></p>
+        <a href="/signup" class = "create">Create One</a>
+        
+    
+      
+        
+        
+    
+    </div>
+    <p class = "error"> <%= errortext%><p>    </div>
