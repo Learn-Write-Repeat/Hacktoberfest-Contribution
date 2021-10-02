@@ -7,8 +7,7 @@
 <h2>What will you make with this project?</h2>
 <p>Some screenshot of this project or you can try it yourself by going on to the <a href="https://note-app-697812.herokuapp.com/" target="_blank">website docs</a>.</p>
 
-<p><img src="https://i.ibb.co/mvMkKKK/notes-api.png
-https://i.ibb.co/kGbK7bx/notes-api-postman.png"/></p>
+![header](https://i.ibb.co/mvMkKKK/notes-api.png)
 
 ## 🚀 **Quick start for the project**
 
