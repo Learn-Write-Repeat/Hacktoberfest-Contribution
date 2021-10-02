@@ -1,0 +1,57 @@
+<% const title ="List" %>
+    <nav>
+        <div class="nav-wrapper deep-purple" style="padding-left:20px;padding-right:20px">
+            <a href="/" class="brand-logo">Todo <%= title %> </a>
+            <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+            <ul class="right hide-on-med-and-down">
+                <li><a href="/">Home</a></li>
+                <li><a href="add-item">Add Item</a></li>
+
+            </ul>
+        </div>
+    </nav>
+
+  <ul class="sidenav deep-purple" id="mobile-demo">
+    <li ><a style="color: white;"  href="/"> Home</a></li>
+    <li><a style="color: white;" href="add-item">Add Item</a></li>
+  </ul>
+
+
+  <!-- <nav>
+    <div class="nav-wrapper">
+      <a href="#!" class="brand-logo">Logo</a>
+      <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+      <ul class="right hide-on-med-and-down">
+        <li><a href="sass.html">Sass</a></li>
+        <li><a href="badges.html">Components</a></li>
+        <li><a href="collapsible.html">Javascript</a></li>
+        <li><a href="mobile.html">Mobile</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <ul class="sidenav" id="mobile-demo">
+    <li><a href="sass.html">Sass</a></li>
+    <li><a href="badges.html">Components</a></li>
+    <li><a href="collapsible.html">Javascript</a></li>
+    <li><a href="mobile.html">Mobile</a></li>
+  </ul> -->
+
+  <script>
+$(document).ready(function(){
+    $('.sidenav').sidenav();
+  });
+  document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.sidenav');
+    var instances = M.Sidenav.init(elems);
+  });
+
+  </script>
+          
+  
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+                    

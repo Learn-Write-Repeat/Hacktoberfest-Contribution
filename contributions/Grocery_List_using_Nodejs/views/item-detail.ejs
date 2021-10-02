@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<html>
+
+<%- include('./partials/head.ejs') %>
+
+
+    <body>
+        <header>
+            <%- include('./partials/nav.ejs') %>
+        </header>
+
+
+
+        <main>
+            <div class="container" style="padding-top: 50px;">
+                <center class="card-panel purple-text text-darken-4" >
+                    <h1 class="center-align">
+                        Item Name:
+                        <%=item.name%>
+                    </h1>
+                    <h4>
+                        Item Price:
+                        <%=item.price%>
+                            Rs.
+                    </h4>
+
+                    <h6>
+                        Item Id:
+                        <%=item._id%>
+
+                    </h6>
+
+                    <h6>
+                        Time of Creation:
+                        <%=item.createdAt%>
+                    </h6>
+                    <h3>
+                        <a id="delBtn" href="/" class="delete btn" data-id="<%=item._id%>"> Delete</a>
+                    </h3>
+                </center>
+
+            </div>
+
+
+        </main>
+
+
+
+
+        <!-- Footer -->
+
+        <script>
+            delBtn.onclick = function(e) {
+                e.preventDefault();
+                // getting id of the item
+                // const id = delBtn.dataset.id;
+
+                // other method for getting the id
+                const id = e.target.getAttribute('data-id');
+                
+                console.log(id);
+                const endpoint = `/items/${id}`;
+                fetch(endpoint,{
+                    method:'DELETE'
+                }).then(res=> res.json()).then(data=>{console.log(data);
+            window.location.href= data.redirect;
+            })
+                    .catch(err => console.log(err))
+            }
+        </script>
+
+
+    </body>
+
+</html>
