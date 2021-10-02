@@ -125,6 +125,15 @@
       "short_description": "platform for stock brokers and traders",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Stock_brokage_website/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Stock_brokage_website/"
+    },
+    {
+      "name": "Junianto Endra",
+      "github_username": "j3ndra",
+      "image_url": "https://avatars.githubusercontent.com/u/32166625?v=4",
+      "title": "Notes API",
+      "short_description": "Back-end Note API using ExpressJS and MongoDB",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/notes-api/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/notes-api/"
     }
   ]
 }
