@@ -49,12 +49,21 @@
       "name": "Sri Vishnu R",
       "github_username": "Sri-vishnu-r1431",
       "image_url": "https://avatars.githubusercontent.com/u/78591776?v=4",
+      "title": "Rock Paper Scissor game ",
+      "short_description": "A mini project, which is used to play Rock paper Scissor game done with HTML,CSS,Js",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Rock_Paper_Scissor/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Rock_Paper_Scissor/"
+    },
+    {
+      "name": "Sri Vishnu R",
+      "github_username": "Sri-vishnu-r1431",
+      "image_url": "https://avatars.githubusercontent.com/u/78591776?v=4",
       "title": "Number System Convertor ",
       "short_description": "A Converter which is used to assist during conversions from one system to another system",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Number_System_Convertor/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Number_System_Convertor/"
     },
-     {
+    {
       "name": "Sri Vishnu R",
       "github_username": "Sri-vishnu-r1431",
       "image_url": "https://avatars.githubusercontent.com/u/78591776?v=4",
@@ -81,7 +90,7 @@
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/drum_kit_website/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/drum_kit_website/"
     },
-     {
+    {
       "name": "Aditya Tiwari",
       "github_username": "devloper016",
       "image_url": "https://avatars.githubusercontent.com/u/85797633?v=4",
@@ -98,7 +107,7 @@
       "short_description": "this is a nodejs based random password genrator which genrates random password of variable length and datatype (include numbers, special characters)",
       "page_url": "https://onepass01.herokuapp.com/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/random_password_genrator_and_saver_using_nodejs_and_mongodb/"
-    }
+    },
     {
       "name": "Syed Mustafa Imam",
       "github_username": "SyedMustafaImam",
@@ -108,6 +117,5 @@
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Grocery_List_using_Nodejs/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Grocery_List_using_Nodejs/"
     }
-
   ]
 }
