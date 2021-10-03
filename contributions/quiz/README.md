@@ -1,0 +1,2 @@
+In this project the user is asked total 8 questions. This code has different function for all questions and also has random functions to select different question each time. All questions have 4 sets of question from where they are randomly selected. If user not gives correct answer, then he has choice to play again or exit from the program. It uses different types of header file. 
+ This project helps us increase our general knowledge and it is very FUN to play this game.   This project is made on VS Code.
