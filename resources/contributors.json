@@ -143,6 +143,15 @@
       "short_description": "Back-end Note API using ExpressJS and MongoDB",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Back-end_note_api/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Back-end_note_api/"
+    },
+    {
+      "name": "Alif Naufal Ilyas",
+      "github_username": "Takane42",
+      "image_url": "https://avatars.githubusercontent.com/u/29156066?v=4",
+      "title": "Load Balancer using Docker with NginX image",
+      "short_description": "Simple Dockerfile and NginX load balancer configuration ",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/load_balancer_docker_nginx/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/load_balancer_docker_nginx/"
     }
   ]
 }
