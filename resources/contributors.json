@@ -152,6 +152,15 @@
       "short_description": "An app to make a strong password for your every account.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Password-Generator/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Password-Generator"
+    },
+    {
+      "name": "Kumar Shrijan",
+      "github_username": "Shrijan26",
+      "image_url": "https://avatars.githubusercontent.com/u/85665636?s=96&v=4",
+      "title": "Digital Clock",
+      "short_description": "this is a simple clock made using html,css and javascript",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/digital_clock/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/digital_clock"
     }
   ]
 }
