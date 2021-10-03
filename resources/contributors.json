@@ -125,6 +125,15 @@
       "short_description": "platform for stock brokers and traders",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Stock_brokage_website/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Stock_brokage_website/"
+    },
+    {
+      "name": "Gregor Davies",
+      "github_username": "gregor-davies",
+      "image_url": "https://avatars.githubusercontent.com/u/43633955?s=96&v=4",
+      "title": "Bulk Image Resizer",
+      "short_description": "A simple script to bulk resize images from a folder.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/bulk_image_resizer/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/bulk_image_resizer/"
     }
   ]
 }
