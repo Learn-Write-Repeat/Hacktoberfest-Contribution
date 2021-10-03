@@ -196,7 +196,7 @@
       "title": "Load Balancer using Docker and NginX",
       "short_description": "Load Balancer for Web Server using Docker with NginX Image",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/load_balancer_using_docker_and_nginx/",
-      "folder_url":"https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/load_balancer_using_docker_and_nginx/"
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/load_balancer_using_docker_and_nginx/"
     },
     {
       "name": "Arindam Raina",
@@ -206,6 +206,15 @@
       "short_description": "A web app to convert number to roman numerals or visa-versa",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/roman_numeral_converter_JS/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/roman_numeral_converter_JS"
+    },
+    {
+      "name": "Joel Justin",
+      "github_username": "joeljustin1",
+      "image_url": "https://avatars.githubusercontent.com/u/75270715?s=400&v=4",
+      "title": "Science Quiz",
+      "short_description": "Quiz in which questions are choosed from a larger pool of questions",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/quiz/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/quiz"
     }
   ]
 }
