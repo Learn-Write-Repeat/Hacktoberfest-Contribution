@@ -1,6 +1,15 @@
 ﻿{
   "contributors": [
     {
+      "name": "Andhavarapu Rahul",
+      "github_username": "And-Rahul",
+      "image_url": "https://avatars.githubusercontent.com/u/72798340?v=4",
+      "title": "Word Counter",
+      "short_description": "A Word Counting Tool for bloggers",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Word-counter/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Word-counter"
+    },
+    {
       "name": "Ashutosh Krishna",
       "github_username": "ashutoshkrris",
       "image_url": "https://avatars.githubusercontent.com/u/47353498?v=4",
