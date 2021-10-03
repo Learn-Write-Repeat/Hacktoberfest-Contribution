@@ -161,7 +161,6 @@
       "short_description": "Project is using Translation Api. English text is translated into Minions Language.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Banana-Speak/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Banana-Speak"
-
     },
     {
       "name": "Kumar Shrijan",
@@ -171,7 +170,15 @@
       "short_description": "this is a simple clock made using html,css and javascript",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/digital_clock/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/digital_clock"     
-    }
-        
+    },
+    {
+      "name": "Syed Hassan Askri",
+      "github_username": "shasherazi",
+      "image_url": "https://avatars.githubusercontent.com/u/63230301?v=4",
+      "title": "Roman to number converter and vice-versa",
+      "short_description": "This project converts roman numerals to numbers and vice-versa very easily.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/roman_to_numeral_and_vice_versa/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/roman_to_numeral_and_vice_versa"
+    }  
   ]
 }
