@@ -215,6 +215,15 @@
       "short_description": "Quiz in which questions are choosed from a larger pool of questions",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/quiz/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/quiz"
+    },
+    {
+      "name": "Shwet Khatri",
+      "github_username": "ShwetKhatri2001",
+      "image_url": "https://avatars.githubusercontent.com/u/56475750?v=4",
+      "title": "Restaurant Website",
+      "short_description": "A frontend restaurant website having all services required for any restaurant",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/restaurant_website_frontend/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/restaurant_website_frontend"
     }
   ]
 }
