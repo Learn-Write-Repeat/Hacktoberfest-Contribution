@@ -134,6 +134,15 @@
       "short_description": "A simple script to bulk resize images from a folder.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/bulk_image_resizer/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/bulk_image_resizer/"
+    },
+    {
+      "name": "Junianto Endra",
+      "github_username": "j3ndra",
+      "image_url": "https://avatars.githubusercontent.com/u/32166625?v=4",
+      "title": "Notes API",
+      "short_description": "Back-end Note API using ExpressJS and MongoDB",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Back-end_note_api/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Back-end_note_api/"
     }
   ]
 }
