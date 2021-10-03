@@ -152,6 +152,15 @@
       "short_description": "An app to make a strong password for your every account.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Password-Generator/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Password-Generator"
+    },
+    {
+      "name": "Viraj Jadhav",
+      "github_username": "Virajj28",
+      "image_url": "https://avatars.githubusercontent.com/u/71481611?v=4",
+      "title": "Banana Speak",
+      "short_description": "Project is using Translation Api. English text is translated into Minions Language.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Banana-Speak/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Banana-Speak"
     }
   ]
 }
