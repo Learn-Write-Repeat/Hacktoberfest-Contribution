@@ -198,5 +198,14 @@
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/load_balancer_using_docker_and_nginx/",
       "folder_url":"https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/load_balancer_using_docker_and_nginx/"
     }
+    {
+      "name": "Arindam Raina",
+      "github_username": "h2o-Noob",
+      "image_url": "https://drive.google.com/file/d/11z3qHQKAJXS0QJz5AZmVYc_MweZ64_gG/view?usp=sharing",
+      "title": "Roman Numeral Converter",
+      "short_description": "A web app to convert number to roman numerals or visa-versa",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/roman_numeral_converter_JS/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/roman_numeral_converter_JS"
+    }
   ]
 }
