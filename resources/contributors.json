@@ -143,6 +143,15 @@
       "short_description": "Back-end Note API using ExpressJS and MongoDB",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Back-end_note_api/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Back-end_note_api/"
+    },
+    {
+      "name": "Nitin Diwakar",
+      "github_username": "Nitin-Diwakar",
+      "image_url": "https://avatars.githubusercontent.com/u/72300414?v=4",
+      "title": "Password Generator",
+      "short_description": "An app to make a strong password for your every account.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Password-Generator/",
+      "folder_url": "https://github.com/Nitin-Diwakar/Hacktoberfest-Contribution/tree/master/contributions/Password-Generator"
     }
   ]
 }
