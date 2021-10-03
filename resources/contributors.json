@@ -224,6 +224,15 @@
       "short_description": "A frontend restaurant website having all services required for any restaurant",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/restaurant_website_frontend/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/restaurant_website_frontend"
+    },
+    {
+      "name": "Shwet Khatri",
+      "github_username": "ShwetKhatri2001",
+      "image_url": "https://avatars.githubusercontent.com/u/56475750?v=4",
+      "title": "Sawo Weather",
+      "short_description": "A weather application using sawo labs auth and rest apis.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/sawo_labs_weather_website/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/sawo_labs_weather_website"
     }
   ]
 }
