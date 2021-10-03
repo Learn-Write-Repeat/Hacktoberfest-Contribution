@@ -224,6 +224,15 @@
       "short_description": "A frontend restaurant website having all services required for any restaurant",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/restaurant_website_frontend/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/restaurant_website_frontend"
+    },
+    {
+      "name": "Ankit Upadhyay",
+      "github_username": "Ankkkitt",
+      "image_url": "https://avatars.githubusercontent.com/u/72919994?v=4",
+      "title": "Weather App",
+      "short_description": "A simple weather web-app made using HTML, CSS and JavaScript",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/weather_app/",
+      "folder_url": "https://github.com/Ankkkitt/Hacktoberfest-Contribution/tree/master/contributions/weather_app"
     }
   ]
 }
