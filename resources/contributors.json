@@ -188,6 +188,15 @@
       "short_description": "A web app to manage submissions of assignments for any organization or institution",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/assignment_manager_using_mern/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/assignment_manager_using_mern"
+    },
+    {
+      "name": "Alif Naufal Ilyas",
+      "github_username": "Takane42",
+      "image_url": "https://avatars.githubusercontent.com/u/29156066?s=400&u=4e364d031bdb946f33a12c25387ec23bd5820dd0&v=4",
+      "title": "Load Balancer using Docker and NginX",
+      "short_description": "Load Balancer for Web Server using Docker with NginX Image",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/load_balancer_using_docker_and_nginx/",
+      "folder_url":"https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/load_balancer_using_docker_and_nginx/"
     }
   ]
 }
