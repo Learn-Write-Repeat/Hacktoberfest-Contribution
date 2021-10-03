@@ -15,8 +15,8 @@
 ## 👀 Preview
 [Live Link](https://shwetkhatri2001.github.io/Bazinga-at-LNMIIT/)
 
-![Menu Page](./images/About/menu_page.png)
-![Specials Page](./images/About/specials_page.png)
+![Menu Page](./images/ABOUT/menu_page.png)
+![Specials Page](./images/ABOUT/specials_page.png)
 
 ## 📥 Installation
 
