@@ -6,4 +6,4 @@ This is a tool for people who write detailed documentation, blogs, essays, etc.,
 This is a pretty cool project which requires you to build an application that can parse texts and show the number of words and characters contained in a writeup. This has some advanced options, it shows characters, words, sentances, paragraphs, and reading time of the text entered withing milliseconds.
 
 And mainly shows some key words used in the text with the count.
-![image](https://github.com/And-Rahul/Hacktoberfest-Contribution/blob/master/Screenshot.png?raw=true)
+![image](https://raw.githubusercontent.com/And-Rahul/Hacktoberfest-Contribution/master/contributions/Word_counter/Screenshot.png)
