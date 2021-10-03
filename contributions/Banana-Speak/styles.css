@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Roboto+Mono:ital@1&display=swap');
+
+
+body {
+    font-family: 'Comfortaa', cursive;
+    background-color: rgb(247, 227, 189);
+}
+
+textarea {
+    height: 10vh;
+    width: 80%;
+    display:flexbox;
+    padding:1rem 1rem;
+    margin:1rem;
+
+}
+
+#output {
+    border: 1px solid black;
+    height: 10vh;
+    width:80%;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#btn-translate{
+    width:40%;
+    margin: 2rem;
+    padding: 1rem;
+    height:auto;
+    background : #f7d606;;
+
+}
+
+h1{
+    margin:inherit;
+    background-color:orange;
+    text-align:center;
+    margin-top: 1rem;
+}
+
+h3{
+    margin: inherit;
+    background-color: orange;
+    text-align:center; 
+    padding-top: 1rem;
+    margin-top: 7rem;
+}
+
