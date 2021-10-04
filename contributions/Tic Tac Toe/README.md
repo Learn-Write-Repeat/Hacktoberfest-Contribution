@@ -1,5 +1,5 @@
-# Hi, Welcome to Tic Tac Toe
-## Project developed by @mthakur7
+# Welcome to Tic Tac Toe
+## Project developed by mthakur7
 
 Simple Tic-Tac-Toe Game using JavaScript
 
