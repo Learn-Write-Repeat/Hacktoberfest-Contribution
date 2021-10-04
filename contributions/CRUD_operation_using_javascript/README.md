@@ -1,6 +1,5 @@
 # CRUD_operation
-##CRUD operation using js (Create , read update and delete).
-
+CRUD operation using   <img src="https://img.shields.io/badge/Frontend:-HTML & CSS-5555ff">  <img src="https://img.shields.io/badge/Backend:- Javascript-E32800">
 # Below is the procedure to operate the project:
 
 ## PROJECT UI :
