@@ -251,6 +251,15 @@
       "short_description": "A simple weather web-app made using HTML, CSS and JavaScript",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/weather_app/",
       "folder_url": "https://github.com/Ankkkitt/Hacktoberfest-Contribution/tree/master/contributions/weather_app"
+    },
+    {
+      "name": "Sofía Rodri3guez",
+      "github_username": "sofiarm21",
+      "image_url": "https://avatars.githubusercontent.com/u/49292858?v=4",
+      "title": "Pomodoro Timer",
+      "short_description": "Pomodoro timer is a minimalist timer that implements the pomodoro technique",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/pomodoro-timer/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/pomodoro-timer/"
     }
   ]
 }
