@@ -1,0 +1,35 @@
+body {
+    height: 100vh;
+}
+
+.navigation {
+    transition: background-color 0.5s ease;
+}
+
+.inactive {
+    color: white;
+    background: black;
+    transition: background-color 0.5s ease;
+}
+
+.active {
+    color: black;
+    background: white;
+    transition: background-color 0.5s ease;
+}
+
+.button-pill {
+    border-radius: 20px;
+}
+
+.timer {
+    font-size: 100px;
+}
+
+.counter-background {
+    background: black
+}
+
+.hide {
+    color: white
+}
