@@ -260,6 +260,16 @@
       "short_description": "Pomodoro timer is a minimalist timer that implements the pomodoro technique",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/pomodoro-timer/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/pomodoro-timer/"
+    },
+    {
+      "name": "Ankit Upadhyay",
+      "github_username": "Ankkkitt",
+      "image_url": "https://avatars.githubusercontent.com/u/72919994?v=4",
+      "title": "Random Number Guess Game",
+      "short_description": "It is a basic random number guess game in which any random number is generated between 0 to 100 and you have to guess that rnumber.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/random_number_guess/",
+      "folder_url": "https://github.com/Ankkkitt/Hacktoberfest-Contribution/tree/master/contributions/random_number_guess"
     }
+
   ]
 }
