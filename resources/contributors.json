@@ -260,6 +260,15 @@
       "short_description": "Pomodoro timer is a minimalist timer that implements the pomodoro technique",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/pomodoro-timer/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/pomodoro-timer/"
+    },
+    {
+      "name": "Anas Khan",
+      "github_username": "anaskhan28",
+      "image_url": "https://avatars.githubusercontent.com/u/87796038?s=400&u=609ffdd767cef890e23e9cc3a7f75a0d601e8264&v=4",
+      "title": "SoundWave",
+      "short_description": "Soundwave is a music website which is made up of html and css",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Soundwave/",
+      "folder_url": "https://github.com/anaskhan28/Hacktoberfest-Contribution/tree/master/contributions/Soundwave"
     }
   ]
 }
