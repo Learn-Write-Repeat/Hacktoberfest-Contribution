@@ -260,6 +260,14 @@
       "short_description": "Pomodoro timer is a minimalist timer that implements the pomodoro technique",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/pomodoro-timer/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/pomodoro-timer/"
+    },
+    {
+      "name": "Japneet Kaur Bhatia",
+      "github_username": "japneetbhatia",
+      "title": "RGB color generator",
+      "short_description": "This Web Page generates RGB color",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/RGB-Generator/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/RGB-Generator/"
     }
   ]
 }
