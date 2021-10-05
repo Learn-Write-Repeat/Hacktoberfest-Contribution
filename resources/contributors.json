@@ -260,6 +260,15 @@
       "short_description": "Pomodoro timer is a minimalist timer that implements the pomodoro technique",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/pomodoro-timer/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/pomodoro-timer/"
+    },
+    {
+      "name": "Shivam Gupta",
+      "github_username": "shivam-0510",
+      "image_url": "https://avatars.githubusercontent.com/u/73394311?v=4",
+      "title": "Result Marksheet Generator",
+      "short_description": "Basically it is a project in which we can generate the marks statement of any student by just entering their personal ans marks details in the form.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/result_marksheet_generator_javascript/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/result_marksheet_generator_javascript/"
     }
   ]
 }
