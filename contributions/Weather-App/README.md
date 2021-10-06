@@ -14,12 +14,12 @@
   <li>Open Weather API</li>
  <li>Unsplash API</li>
 </ul>
-#### Steps to Use:
----
+
+### Steps to Use
 
 - Download or clone the repository
 ```
-git clone https://github.com/Atif0604/Hacktoberfest-Contribution.git
+git clone https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution.git
 ```
 - Go to the directory
 - Run the index.html file
@@ -27,6 +27,6 @@ git clone https://github.com/Atif0604/Hacktoberfest-Contribution.git
 - After that it will automatically display Weather, Humidity, Wind Speed of the city.
 
 
-<h3> ScreenShots :</h3>  
-
+<h3> ScreenShots :</h3> 
+ <img width="960" alt="Weather-App" src="https://user-images.githubusercontent.com/64218887/136138154-e25c0aec-ac7e-4d8e-95bd-1bd84ec33b3c.png">
 <br>
