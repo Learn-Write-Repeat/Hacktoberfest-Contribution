@@ -296,6 +296,15 @@
       "short_description": "CRUD OPERATION APP created using HTML , Css and Javascript ",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/CRUD_operation_using_javascript/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/CRUD_operation_using_javascript/"
+    },
+    {
+      "name": "Japneet Kaur Bhatia",
+      "github_username": "japneetbhatia",
+      "image_url": "https://avatars.githubusercontent.com/u/56752427?v=4",
+      "title": "RGB color generator",
+      "short_description": "This Web Page generates RGB color",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/RGB-Generator/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/RGB-Generator/"
     }
   ]
 }
