@@ -269,6 +269,15 @@
       "short_description": "Contact-card provides direct link to various social-media sites!",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/contact_card_using_html_css/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/contact_card_using_html_css/"
+    },
+    {
+      "name": "Manju Thakur",
+      "github_username": "mthakur7",
+      "image_url": "https://avatars.githubusercontent.com/u/89182004?s=96&v=4",
+      "title": "Tic Tac Toe",
+      "short_description": "Tic Tac Toe is a game made using Javascript, it is a beginner friendly multiplayer game",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Tic_Tac_Toe/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Tic_Tac_Toe/"
     }
   ]
 }
