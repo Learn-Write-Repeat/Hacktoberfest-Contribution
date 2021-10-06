@@ -260,6 +260,17 @@
       "short_description": "Pomodoro timer is a minimalist timer that implements the pomodoro technique",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/pomodoro-timer/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/pomodoro-timer/"
-    }
+    },    
+    {
+            "name": "Debgandhar Ghosh",
+            "github_username": "debg48",
+            "image_url": "https://avatars.githubusercontent.com/u/66957584?v=4",
+            "title": "Language Detection Tool",
+            "short_description": "As the name suggests it detects the input language and translates it in english",
+            "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Language_Detection_tool_python/",
+            "folder_url":"https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Language_Detection_tool_python/"
+        }
+
+    
   ]
 }
