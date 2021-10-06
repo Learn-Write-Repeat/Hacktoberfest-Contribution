@@ -37,15 +37,6 @@
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/snake_ladder_web_game/"
     },
     {
-      "name": "Aditya Mahimkar",
-      "github_username": "aditya9110",
-      "image_url": "https://avatars.githubusercontent.com/u/40512329?v=4",
-      "title": "ToDo List App using Flask",
-      "short_description": "The web app is used to create, update, delete and manage users task list.",
-      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/todo_list_using_flask/",
-      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/todo_list_using_flask/"
-    },
-    {
       "name": "Japneet Kaur",
       "github_username": "japneetbhatia",
       "image_url": "https://avatars.githubusercontent.com/u/56752427?v=4",
@@ -332,6 +323,15 @@
       "short_description": "Design a 12 hours format digital clock including Date (Day, Month, Year), Time (Hours, Minutes, Seconds), and Period (AM/PM) using Javascript, CSS and HTML.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Digital_Clock_JS/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Digital_Clock_JS/"
+    },
+    {
+      "name": "Aditya Mahimkar",
+      "github_username": "aditya9110",
+      "image_url": "https://avatars.githubusercontent.com/u/40512329?v=4",
+      "title": "ToDo List App using Flask",
+      "short_description": "The web app is used to create, update, delete and manage users task list.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/todo_list_using_flask/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/todo_list_using_flask/"
     }
   ]
 }
