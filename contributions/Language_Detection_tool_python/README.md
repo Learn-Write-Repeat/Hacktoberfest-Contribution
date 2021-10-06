@@ -6,4 +6,4 @@ There are two outputs one is the language detected and second is the translation
 
 Screenshot:
 
-
+![Language_Detection](images/img.jpg)
