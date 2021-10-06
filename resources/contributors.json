@@ -287,6 +287,15 @@
       "short_description": "It is a basic random number guess game in which any random number is generated between 0 to 100 and you have to guess that rnumber.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/random_number_guess/",
       "folder_url": "https://github.com/Ankkkitt/Hacktoberfest-Contribution/tree/master/contributions/random_number_guess"
+    },
+    {
+      "name": "Manisha Parichha",
+      "github_username": "MannyP31",
+      "image_url": "https://avatars.githubusercontent.com/u/76945004?v=4",
+      "title": "CRUD_operation",
+      "short_description": "CRUD OPERATION APP created using HTML , Css and Javascript ",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/CRUD_operation_using_javascript/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/CRUD_operation_using_javascript/"
     }
   ]
 }
