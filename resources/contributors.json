@@ -305,6 +305,15 @@
       "short_description": "This Web Page generates RGB color",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/RGB-Generator/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/RGB-Generator/"
+    },
+    {
+      "name": "Priya Pahwa",
+      "github_username": "priyapahwa",
+      "image_url": "https://avatars.githubusercontent.com/u/77075449?v=4",
+      "title": "DIGITAL CLOCK WITH JAVASCRIPT",
+      "short_description": "Design a 12 hours format digital clock including Date (Day, Month, Year), Time (Hours, Minutes, Seconds), and Period (AM/PM) using Javascript, CSS and HTML.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/digital_clock_js/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/digital_clock_js/"
     }
   ]
 }
