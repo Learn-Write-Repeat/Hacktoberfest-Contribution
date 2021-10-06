@@ -314,6 +314,15 @@
       "short_description": "Design a 12 hours format digital clock including Date (Day, Month, Year), Time (Hours, Minutes, Seconds), and Period (AM/PM) using Javascript, CSS and HTML.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/digital_clock_js/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/digital_clock_js/"
+    },
+    {
+      "name": "Md Atif",
+      "github_username": "Atif0604",
+      "image_url": "https://avatars.githubusercontent.com/u/64218887?v=4",
+      "title": "Weather-App",
+      "short_description": "Simple Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Weather-App/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Weather-App/"
     }
   ]
 }
