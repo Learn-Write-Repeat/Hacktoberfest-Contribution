@@ -323,6 +323,15 @@
       "short_description": "Design a 12 hours format digital clock including Date (Day, Month, Year), Time (Hours, Minutes, Seconds), and Period (AM/PM) using Javascript, CSS and HTML.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Digital_Clock_JS/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Digital_Clock_JS/"
+    },
+    {
+      "name": "Muhlis Iqbal Utomo",
+      "github_username": "iqbalutomo",
+      "image_url": "https://avatars.githubusercontent.com/u/73095492?v=4",
+      "title": "OMDb Movie API",
+      "short_description": "The OMDb API is a RESTful web service to obtain movie information.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/omdb_movie_api",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/omdb_movie_api"
     }
   ]
 }
