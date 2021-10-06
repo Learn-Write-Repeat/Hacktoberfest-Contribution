@@ -253,6 +253,15 @@
       "folder_url": "https://github.com/Ankkkitt/Hacktoberfest-Contribution/tree/master/contributions/weather_app"
     },
     {
+      "name": "Muskan Gupta",
+      "github_username": "muskan89",
+      "image_url": "https://avatars.githubusercontent.com/u/67742819?s=400&u=0010ba32165364f73c078f420d680d24254b2e13&v=4",
+      "title": "Keep_notes app",
+      "short_description": "A react app where you can organise and secure your short notes on your account",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/KeepNotes_using_reactjs/",
+      "folder_url":"https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/KeepNotes_using_reactjs/"
+    },
+    {
       "name": "Sofía Rodri3guez",
       "github_username": "sofiarm21",
       "image_url": "https://avatars.githubusercontent.com/u/49292858?v=4",
@@ -269,6 +278,60 @@
       "short_description": "Basically it is a project in which we can generate the marks statement of any student by just entering their personal ans marks details in the form.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/result_marksheet_generator_javascript/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/result_marksheet_generator_javascript/"
+    },
+    {
+      "name": "Fatima Reefat",
+      "github_username": "fatimareefat",
+      "image_url": "https://avatars.githubusercontent.com/u/83615173?v=4",
+      "title": "Contact Card",
+      "short_description": "Contact-card provides direct link to various social-media sites!",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/contact_card_using_html_css/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/contact_card_using_html_css/"
+    },
+    {
+      "name": "Manju Thakur",
+      "github_username": "mthakur7",
+      "image_url": "https://avatars.githubusercontent.com/u/89182004?s=96&v=4",
+      "title": "Tic Tac Toe",
+      "short_description": "Tic Tac Toe is a game made using Javascript, it is a beginner friendly multiplayer game",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Tic_Tac_Toe/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Tic_Tac_Toe/"
+    },
+    {
+      "name": "Ankit Upadhyay",
+      "github_username": "Ankkkitt",
+      "image_url": "https://avatars.githubusercontent.com/u/72919994?v=4",
+      "title": "Random Number Guess Game",
+      "short_description": "It is a basic random number guess game in which any random number is generated between 0 to 100 and you have to guess that rnumber.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/random_number_guess/",
+      "folder_url": "https://github.com/Ankkkitt/Hacktoberfest-Contribution/tree/master/contributions/random_number_guess"
+    },
+    {
+      "name": "Manisha Parichha",
+      "github_username": "MannyP31",
+      "image_url": "https://avatars.githubusercontent.com/u/76945004?v=4",
+      "title": "CRUD_operation",
+      "short_description": "CRUD OPERATION APP created using HTML , Css and Javascript ",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/CRUD_operation_using_javascript/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/CRUD_operation_using_javascript/"
+    },
+    {
+      "name": "Japneet Kaur Bhatia",
+      "github_username": "japneetbhatia",
+      "image_url": "https://avatars.githubusercontent.com/u/56752427?v=4",
+      "title": "RGB color generator",
+      "short_description": "This Web Page generates RGB color",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/RGB-Generator/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/RGB-Generator/"
+    },
+    {
+      "name": "Priya Pahwa",
+      "github_username": "priyapahwa",
+      "image_url": "https://avatars.githubusercontent.com/u/77075449?v=4",
+      "title": "DIGITAL CLOCK WITH JAVASCRIPT",
+      "short_description": "Design a 12 hours format digital clock including Date (Day, Month, Year), Time (Hours, Minutes, Seconds), and Period (AM/PM) using Javascript, CSS and HTML.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Digital_Clock_JS/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Digital_Clock_JS/"
     }
   ]
 }
