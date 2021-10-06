@@ -278,6 +278,15 @@
       "short_description": "Tic Tac Toe is a game made using Javascript, it is a beginner friendly multiplayer game",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Tic_Tac_Toe/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Tic_Tac_Toe/"
+    },
+    {
+      "name": "Ankit Upadhyay",
+      "github_username": "Ankkkitt",
+      "image_url": "https://avatars.githubusercontent.com/u/72919994?v=4",
+      "title": "Random Number Guess Game",
+      "short_description": "It is a basic random number guess game in which any random number is generated between 0 to 100 and you have to guess that rnumber.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/random_number_guess/",
+      "folder_url": "https://github.com/Ankkkitt/Hacktoberfest-Contribution/tree/master/contributions/random_number_guess"
     }
   ]
 }
