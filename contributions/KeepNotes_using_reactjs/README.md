@@ -34,5 +34,5 @@ An app to keep user’s quick notes organised with dates having features of sign
 
 ## Screenshots
 
-![signup_or_signin](https://github.com/muskan89/Hacktoberfest-Contribution/blob/master/contributions/KeepNotes_using_reactjs/Screenshot%20of%20signin-signup%20page.png)
-![notebook](https://github.com/muskan89/Hacktoberfest-Contribution/blob/master/contributions/KeepNotes_using_reactjs/Screenshot%20of%20notebook.png)
+![signup_or_signin](https://raw.githubusercontent.com/muskan89/Hacktoberfest-Contribution/master/contributions/KeepNotes_using_reactjs/Screenshot%20of%20signin-signup%20page.png)
+![notebook](https://raw.githubusercontent.com/Learn-Write-Repeat/Hacktoberfest-Contribution/master/contributions/KeepNotes_using_reactjs/Screenshot%20of%20notebook.png)
