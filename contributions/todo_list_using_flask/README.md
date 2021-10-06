@@ -6,3 +6,5 @@
 - **SQLite** is used as database to store the users tasks.
 
 **Here's the output of the code:**
+
+![output](ToDo%20List%20App.gif)
