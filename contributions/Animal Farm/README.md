@@ -22,7 +22,7 @@ The given project was created with the reference and assistance of Unity's Junio
 </h3>
 <hr> 
 
-
+<h3 align= "center">Gallery 📷 </h3>
 
 ![2021-10-06 (4)(1)](https://user-images.githubusercontent.com/77115160/136147197-5f60b861-ec91-47bd-a01e-72ad59be27ff.png)
 
