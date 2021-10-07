@@ -1,0 +1,3 @@
+-Procedural maze generator using recursive backtracker algorithm.
+-Number of rows and columns can be specified
+-Made in UnityEngine

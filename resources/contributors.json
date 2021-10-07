@@ -377,6 +377,15 @@
       "short_description": "Animal farm has been created on Unity Engine using C# in which a player navigates horizontally and aims to shoot at the hurdles coming in its way.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/animal-farm/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/animal-farm/"
+    },
+	{
+      "name": "Shamnad AS",
+      "github_username": "ShamnadAS",
+      "image_url": "https://avatars.githubusercontent.com/u/48183456?v=4",
+      "title": "Maze Generator",
+      "short_description": "Procedural maze generator using recursive backtracker algorithm",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/maze_generator/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/maze_generator/"
     }
   ]
 }
