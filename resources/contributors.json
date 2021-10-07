@@ -377,6 +377,15 @@
       "short_description": "Animal farm has been created on Unity Engine using C# in which a player navigates horizontally and aims to shoot at the hurdles coming in its way.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/animal-farm/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/animal-farm/"
+    },
+    {
+      "name": "Manisha Parichha",
+      "github_username": "MannyP31",
+      "image_url": "https://avatars.githubusercontent.com/u/76945004?v=4",
+      "title": "Image Slider",
+      "short_description": "This is an Image Slider built using HTML, CSS and Javascript.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/image_slider_using_javascript/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/image_slider_using_javascript/"
     }
   ]
 }
