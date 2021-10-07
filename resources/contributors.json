@@ -395,6 +395,15 @@
       "short_description": "This project is made using javascript.It will convert any currencies",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Currency-Converter/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Currency-Converter/"
+    },
+    {
+      "name": "Md Atif",
+      "github_username": "Atif0604",
+      "image_url": "https://avatars.githubusercontent.com/u/64218887?v=4",
+      "title": "Weather-App",
+      "short_description": "Simple Movie Search App in HTML, CSS, and JavaScript using the APIs for fetching movies information.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Movie-Search-App/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Movie-Search-App/"
     }
   ]
 }
