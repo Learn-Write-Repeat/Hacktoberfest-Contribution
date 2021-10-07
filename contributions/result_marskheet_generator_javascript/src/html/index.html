@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/src/css/style.css">
+    <title>Marksheet Generator</title>
+</head>
+
+<body>
+    <main>
+
+        <!--Logout button-->
+        <div class="logout">
+            <button class="logOut">LOGOUT</button>
+        </div>
+
+        <!--School logo-->
+        <div class="image">
+            <img src="/src/img/logo.png" alt="logo">
+        </div>
+
+        <!--School name-->
+        <h1>ABC PUBLIC SCHOOL, CHANDIGARH</h1>
+
+        <!--Personal details form-->
+        <div class="personaldetail">
+            <form>
+                <h4>Personal Details:</h4><br>
+                <label for="name">Name:</label>
+                <input type="text" name="name" type="reset" id="name" placeholder="Enter your name"><br>
+                <label for="fathername">Father's Name:</label>
+                <input type="text" name="fathername" type="reset" id="fathername"
+                    placeholder="Enter your Father's name"><br>
+                <label for="mothername">Mother's Name:</label>
+                <input type="text" name="mothername" type="reset" id="mothername"
+                    placeholder="Enter your Mother's name"><br>
+                <label for="rollno">Roll No.:</label>
+                <input type="text" name="rollno" type="reset" id="rollno" placeholder="Enter your Roll no."><br>
+            </form>
+        </div>
+
+        <!--Marks details-->
+        <h3 class="marks">ENTER MARK DETAILS</h3>
+        <div class="marksdetails">
+            <div class="subject-row">
+
+                <!--English marks-->
+                <div class="English border">
+
+                    <form>
+                        <h4>English :</h4>
+                        <label for="scode1">Enter Subject code :</label>
+                        <input type="text" type="reset" id="scode1" placeholder="Enter subject code"><br>
+                        <label for="tmarks1">Theory Marks :</label>
+                        <input type="text" type="reset" id="tmarks1" placeholder="Enter Theory marks"><br>
+                        <label for="imarks1">Internal Marks :</label>
+                        <input type="text" type="reset" id="imarks1" placeholder="Enter Internal marks"><br>
+                    </form>
+                </div>
+
+                <!--Maths marks-->
+                <div class="Maths border">
+
+                    <form>
+                        <h4>Mathematics :</h4>
+                        <label for="scode2">Enter Subject code :</label>
+                        <input type="text" type="reset" id="scode2" placeholder="Enter subject code"><br>
+
+                        <label for="tmarks2">Theory Marks :</label>
+                        <input type="text" type="reset" id="tmarks2" placeholder="Enter Theory marks"><br>
+                        <label for="imarks2">Internal Marks :</label>
+                        <input type="text" type="reset" id="imarks2" placeholder="Enter Internal marks"><br>
+                    </form>
+                </div>
+            </div>
+            <div class="subject-row">
+
+                <!--Physics marks-->
+                <div class="Physics border">
+
+                    <form>
+                        <h4>Physics :</h4>
+                        <label for="scode3">Enter Subject code :</label>
+                        <input type="text" type="reset" id="scode3" placeholder="Enter subject code"><br>
+                        <label for="tmarks3">Theory Marks :</label>
+                        <input type="text" type="reset" id="tmarks3" placeholder="Enter Theory marks"><br>
+                        <label for="imarks3">Internal Marks :</label>
+                        <input type="text" type="reset" id="imarks3" placeholder="Enter Internal marks"><br>
+                    </form>
+                </div>
+
+                <!--Chemistry marks-->
+                <div class="chemistry border">
+
+                    <form>
+                        <h4>Chemistry :</h4>
+                        <label for="scode4">Enter Subject code :</label>
+                        <input type="text" type="reset" id="scode4" placeholder="Enter subject code"><br>
+                        <label for="tmarks4">Theory Marks :</label>
+                        <input type="text" type="reset" id="tmarks4" placeholder="Enter Theory marks"><br>
+                        <label for="imarks4">Internal Marks :</label>
+                        <input type="text" type="reset" id="imarks4" name placeholder="Enter Internal marks"><br>
+                    </form>
+                </div>
+            </div>
+            <div class="subject-row">
+
+                <!--Computer science marks-->
+                <div class="cs border">
+                    <form>
+                        <h4>Computer Science :</h4>
+                        <label for="scode5">Enter Subject code :</label>
+                        <input type="text" type="reset" id="scode5" placeholder="Enter subject code"><br>
+                        <label for="tmarks5">Theory Marks :</label>
+                        <input type="text" type="reset" id="tmarks5" placeholder="Enter Theory marks"><br>
+                        <label for="imarks5">Internal Marks :</label>
+                        <input type="text" type="reset" id="imarks5" placeholder="Enter Internal marks"><br>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <button type="submit" name="submit" class="btn">Generate</button>
+        <br>
+    </main>
+
+    <!-- Marksheet details -->
+    <div class="main-container">
+        <div class="school">ABC PUBLIC SCHOOL, CHANDIGARH</div>
+        <div class="marks">MARKS STATEMENT</div>
+        <div class="s-no">S.NO -
+            <div class="sno"></div>
+        </div>
+
+        <!-- Student's name -->
+        <div class="name">Student Name -
+            <div class="Name"></div>
+        </div>
+
+        <!-- Father's name -->
+        <div class="f-name">Father's Name -
+            <div class="F-name"></div>
+        </div>
+
+        <!-- Mother's name -->
+        <div class="m-name">Mother's Name -
+            <div class="M-name"></div>
+        </div>
+
+        <!-- Roll.no -->
+        <div class="roll-no">Roll.No -
+            <div class="Roll-No"></div>
+        </div>
+
+        <!-- Table containing all the details -->
+        <div class="table">
+            <table class="tab">
+                <tr>
+                    <th>SUB.CODE</th>
+                    <th>SUBJECT</th>
+                    <th colspan="4">MARKS OBTAINED</th>
+                    <th>GRADE</th>
+                </tr>
+                <tr>
+                    <th></th>
+                    <th></th>
+                    <th>THEORY</th>
+                    <th>INTERNAL</th>
+                    <th>TOTAL</th>
+                    <th>TOTAL IN WORDS</th>
+                <tr></tr>
+                </tr>
+            </table>
+        </div>
+
+        <!-- Result status -->
+        <div class="pass">RESULT -
+            <div class="Pass"></div>
+        </div>
+
+        <!-- Print button -->
+        <button class="p-btn" onclick="window.print();">PRINT</button>
+    </div>
+    <div class="loader">
+        <iframe src="https://giphy.com/embed/3oEjI6SIIHBdRxXI40" width="480" height="480" frameBorder="0"
+            class="giphy-embed" allowFullScreen></iframe>
+    </div>
+    <script src="/src/js/words.js"></script>
+    <script src="/src/js/script.js"></script>
+</body>
+
+</html>

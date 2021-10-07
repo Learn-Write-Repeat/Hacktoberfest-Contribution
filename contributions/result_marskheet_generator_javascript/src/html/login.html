@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="/src/css/style.css">
+</head>
+
+<body>
+    <section class="login-page">
+        <div class="image">
+            <img src="/src/img/logo.png" alt="logo">
+        </div>
+        <h1>ABC PUBLIC SCHOOL, CHANDIGARH</h1>
+        <div class="login">
+            <h3 class="log-p">Login</h3>
+
+        <!--Login Form-->    
+        <form action="#"">
+
+            <!--Username-->
+            <div>
+                <label for="username">Username: </label>
+                <input class="lgn-inp" type="text" name="username" id="username" placeholder="Enter your username">
+            </div>
+
+            <!--Passoword-->
+            <div>
+                <label for="password">Password: </label>
+                <input class="lgn-inp" type="password" name="password" id="password" placeholder="Enter your password">
+            </div>
+
+            <!--Login button-->
+            <div>
+                <button class="lgn-btn" type="submit" name="btn">LOGIN</button>
+            </div>
+        </form>
+        </div>
+    </section>
+    <div class="loader">
+        <iframe src="https://giphy.com/embed/3oEjI6SIIHBdRxXI40" width="480" height="480" frameBorder="0"
+            class="giphy-embed" allowFullScreen></iframe>
+    </div>
+    <script>
+        document.querySelector('.lgn-btn').addEventListener('click', () => {
+            const login = document.querySelector('.login-page');
+            loader.style.display = 'flex';
+            login.style.display='none';
+            body.style.backgroundColor='white';
+            setTimeout(()=>{
+                loader.style.display='none';
+                location.href = "/src/html/index.html";
+            },2000);
+        });
+    </script>
+    <script src="/src/js/script.js"></script>
+</body>
+
+</html>

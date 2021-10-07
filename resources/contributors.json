@@ -259,7 +259,7 @@
       "title": "Keep_notes app",
       "short_description": "A react app where you can organise and secure your short notes on your account",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/KeepNotes_using_reactjs/",
-      "folder_url":"https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/KeepNotes_using_reactjs/"
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/KeepNotes_using_reactjs/"
     },
     {
       "name": "Sofía Rodri3guez",
@@ -269,6 +269,15 @@
       "short_description": "Pomodoro timer is a minimalist timer that implements the pomodoro technique",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/pomodoro-timer/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/pomodoro-timer/"
+    },
+    {
+      "name": "Shivam Gupta",
+      "github_username": "shivam-0510",
+      "image_url": "https://avatars.githubusercontent.com/u/73394311?v=4",
+      "title": "Result Marksheet Generator",
+      "short_description": "Basically it is a project in which we can generate the marks statement of any student by just entering their personal ans marks details in the form.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/result_marksheet_generator_javascript/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/result_marksheet_generator_javascript/"
     },
     {
       "name": "Fatima Reefat",
@@ -325,13 +334,67 @@
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Digital_Clock_JS/"
     },
     {
-      "name": "Aditya Mahimkar",
-      "github_username": "aditya9110",
-      "image_url": "https://avatars.githubusercontent.com/u/40512329?v=4",
-      "title": "ToDo List App using Flask",
-      "short_description": "The web app is used to create, update, delete and manage users task list.",
-      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/todo_list_using_flask/",
-      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/todo_list_using_flask/"
+      "name": "Aswini Kalyan",
+      "github_username": "aswinikalyan30",
+      "image_url": "https://avatars.githubusercontent.com/u/76677408?s=40&v=4",
+      "title": "Unit Converter Tool",
+      "short_description": "A simple tool to convert between different forms of units of length,mass,area,temperature and time",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Unit_Converter/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Unit_Converter/"
+    },
+    {
+      "name": "Md Atif",
+      "github_username": "Atif0604",
+      "image_url": "https://avatars.githubusercontent.com/u/64218887?v=4",
+      "title": "Weather-App",
+      "short_description": "Simple Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Weather-App/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Weather-App/"
+    },
+    {
+      "name": "Pasindu Ruwandeniya",
+      "github_username": "pasindujr",
+      "image_url": "https://avatars.githubusercontent.com/u/61911519?v=4",
+      "title": "Lorem Ipsum Generator",
+      "short_description": "Tired Of Boring Lorem Ipsum? You can try this tool to generate some different lorem ipsum paragraphs.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/loremipsum-generator-using-JS/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/loremipsum-generator-using-JS/"
+    },
+    {
+      "name": "Muhlis Iqbal Utomo",
+      "github_username": "iqbalutomo",
+      "image_url": "https://avatars.githubusercontent.com/u/73095492?v=4",
+      "title": "OMDb Movie API",
+      "short_description": "The OMDb API is a RESTful web service to obtain movie information.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/omdb_movie_api",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/omdb_movie_api"
+    },
+    {
+      "name": "Harshita Jain",
+      "github_username": "harshitajain165",
+      "image_url": "https://avatars.githubusercontent.com/u/77115160?s=400&v=4",
+      "title": "Animal Farm Game",
+      "short_description": "Animal farm has been created on Unity Engine using C# in which a player navigates horizontally and aims to shoot at the hurdles coming in its way.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/animal-farm/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/animal-farm/"
+    },
+    {
+      "name": "Manisha Parichha",
+      "github_username": "MannyP31",
+      "image_url": "https://avatars.githubusercontent.com/u/76945004?v=4",
+      "title": "Image Slider",
+      "short_description": "This is an Image Slider built using HTML, CSS and Javascript.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/image_slider_using_javascript/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/image_slider_using_javascript/"
+    },
+    {
+      "name": "Sulagna Dutta Roy",
+      "github_username": "Sulagna-Dutta-Roy",
+      "image_url": "https://avatars.githubusercontent.com/u/72568715?v=4",
+      "title": "Currency Converter",
+      "short_description": "This project is made using javascript.It will convert any currencies",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Currency-Converter/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Currency-Converter/"
     }
   ]
 }

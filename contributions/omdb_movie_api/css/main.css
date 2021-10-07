@@ -1,0 +1,58 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: rgba(0, 0, 0, 0.87);
+}
+
+body .container h1 {
+  color: wheat;
+}
+
+body .container p {
+  margin-top: -15px;
+  color: wheat;
+}
+
+body .search .input-keyword {
+  color: white;
+  background-color: transparent;
+}
+
+body .search .input-keyword:focus {
+  color: white;
+  outline: 2px solid slateblue;
+}
+
+body .search .search-button {
+  background-color: transparent;
+  border-color: white;
+}
+
+body .search .search-button:hover {
+  background-color: white;
+  color: slateblue;
+}
+
+body .search .search-button:focus {
+  outline: 2px solid slateblue;
+}
+
+body .card {
+  background-color: rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.4);
+          box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.4);
+}
+
+body .card .card-title {
+  color: wheat;
+}
+
+body .card .modal-detail-button {
+  color: slateblue;
+  border-color: slateblue;
+}
+
+body .card .modal-detail-button:hover {
+  background-color: slateblue;
+  color: white;
+}
+/*# sourceMappingURL=main.css.map */
