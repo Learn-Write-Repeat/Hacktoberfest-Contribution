@@ -5,3 +5,4 @@ In this code there is a person who will choose a number randomly (store in bet v
 
 After 30 days it will show Total amount he earned(it can be profit or loss). And also in this code i used matplotlib library which will draw the graph for  daily status.
 
+![Screenshot](Desktop\Hacktoberfest-Contribution\contributions\Lottery_Game/Screenshot.png)
