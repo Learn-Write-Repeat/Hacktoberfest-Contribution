@@ -27,5 +27,5 @@ git clone https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution.git
 
 
 <h3> ScreenShots </h3>  
-
+  <img width="943" alt="Movie-Search-App" src="https://user-images.githubusercontent.com/64218887/136402235-615cb4fc-031a-4dbf-9453-a96cb2d7d6f2.png">
 <br>
