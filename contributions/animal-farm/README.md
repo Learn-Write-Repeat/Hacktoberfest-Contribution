@@ -4,7 +4,7 @@
 - The aim of the player is to prevent the animals from crossing the boundary of the farm by aiming discs at them using the spacebar key.
 - The animals disappear when the player successfully aims the disc at them.
 - The game ends as soon an animal crosses the boundary.
-<h2 align="center">C# scripts used:</h1>
+<h2 align="center">C# scripts used:</h2>
 
 - Player Controller script to glide the player horizontally within bounds.
 - Collision Detector script to detect the collision between the game objects(animals) and the disc.
