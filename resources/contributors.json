@@ -359,6 +359,15 @@
       "short_description": "Tired Of Boring Lorem Ipsum? You can try this tool to generate some different lorem ipsum paragraphs.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/loremipsum-generator-using-JS/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/loremipsum-generator-using-JS/"
+    },
+    {
+      "name": "Muhlis Iqbal Utomo",
+      "github_username": "iqbalutomo",
+      "image_url": "https://avatars.githubusercontent.com/u/73095492?v=4",
+      "title": "OMDb Movie API",
+      "short_description": "The OMDb API is a RESTful web service to obtain movie information.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/omdb_movie_api",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/omdb_movie_api"
     }
   ]
 }
