@@ -386,6 +386,15 @@
       "short_description": "This is an Image Slider built using HTML, CSS and Javascript.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/image_slider_using_javascript/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/image_slider_using_javascript/"
+    },
+    {
+      "name": "Sulagna Dutta Roy",
+      "github_username": "Sulagna-Dutta-Roy",
+      "image_url": "https://avatars.githubusercontent.com/u/72568715?v=4",
+      "title": "Currency Converter",
+      "short_description": "This project is made using javascript.It will convert any currencies",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Currency-Converter/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Currency-Converter/"
     }
   ]
 }
