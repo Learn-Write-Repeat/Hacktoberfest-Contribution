@@ -395,6 +395,15 @@
       "short_description": "This project is made using javascript.It will convert any currencies",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Currency-Converter/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Currency-Converter/"
-    }
+    },
+    {
+      "name": "Shivam Kumar Jha",
+      "github_username": "shivamjha779",
+      "image_url": "https://avatars.githubusercontent.com/shivamjha779",
+      "title": "todo-console",
+      "short_description": "a simple console based todo app after learning some javascript",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/todo-console/",
+      "folder_url":"https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/todo-console/"
+  }
   ]
 }
