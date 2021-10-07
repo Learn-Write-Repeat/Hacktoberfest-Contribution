@@ -350,6 +350,15 @@
       "short_description": "Simple Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Weather-App/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Weather-App/"
+    },
+    {
+      "name": "Pasindu Ruwandeniya",
+      "github_username": "pasindujr",
+      "image_url": "https://avatars.githubusercontent.com/u/61911519?v=4",
+      "title": "Lorem Ipsum Generator",
+      "short_description": "Tired Of Boring Lorem Ipsum? You can try this tool to generate some different lorem ipsum paragraphs.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/loremipsum-generator-using-JS/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/loremipsum-generator-using-JS/"
     }
   ]
 }
