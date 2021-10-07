@@ -368,6 +368,15 @@
       "short_description": "The OMDb API is a RESTful web service to obtain movie information.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/omdb_movie_api",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/omdb_movie_api"
+    },
+    {
+      "name": "Harshita Jain",
+      "github_username": "harshitajain165",
+      "image_url": "https://avatars.githubusercontent.com/u/77115160?s=400&v=4",
+      "title": "Animal Farm Game",
+      "short_description": "Animal farm has been created on Unity Engine using C# in which a player navigates horizontally and aims to shoot at the hurdles coming in its way.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/animal-farm/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/animal-farm/"
     }
   ]
 }
