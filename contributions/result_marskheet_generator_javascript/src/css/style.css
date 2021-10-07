@@ -1,0 +1,341 @@
+    /* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+    @import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap'); */
+    
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: rgb(233, 233, 233);
+    }
+    
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    main {
+        height: 1100px;
+        /* display: none; */
+    }
+    
+    h1 {
+        display: flex;
+        justify-content: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-shadow: 3px 3px white;
+        margin-top: -30px;
+    }
+
+    .log-p{
+        margin-bottom: 1rem;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .login {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border: 1.5px solid black;
+        border-radius: 1.5rem;
+        margin: 2rem 20rem;
+        padding: 2rem 10rem;
+    }
+    .lgn-btn{
+        border: 0.5px solid black;
+        border-radius: 0.5rem;
+        margin: 1rem 0rem;
+        padding: 0.5rem 1rem;
+        margin-left: 105px;
+    }
+    .lgn-btn:hover{
+        cursor: pointer;
+    }
+    .lgn-inp{
+        padding: 0.5rem 0.5rem;
+        border: 1px solid black;
+        border-radius: 0.5rem;
+        margin: 10px;
+    }
+    
+    .personaldetail {
+        /* display: flex;
+        justify-content: center;
+        align-items: center;
+        border: 1px solid black;
+        border-radius: 0.5rem;
+        margin-left: 475px;
+        margin-top: 2rem;
+        width: 400px;
+        height: 250px; */
+        display: flex;
+        justify-content: center;
+        border: 1px solid black;
+        border-radius: 0.5rem;
+        margin: 3rem 20rem;
+        padding: 1rem;
+    }
+    
+    .personaldetail h4 {
+        display: flex;
+        justify-content: center;
+        font-family: 'Roboto', sans-serif;
+    }
+    /* .personaldetail form {
+        padding: 5px;
+    } */
+    
+    .personaldetail form input {
+        margin-left: 2px;
+        margin: 10px;
+        width: 200px;
+        padding: 5px;
+    }
+    
+    input {
+        border: 1px solid black;
+        border-radius: 2rem;
+        background-color: white;
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    .btn {
+        display: flex;
+        margin: 3rem 31rem;
+        margin-bottom: 1rem;
+        margin-left: 600px;
+        padding: 0.8rem 3rem;
+        border: 1px solid black;
+        border-radius: 4px;
+    }
+    
+    .btn:hover {
+        cursor: pointer;
+    }
+    /* .marksdetails {
+        display: flex;
+        margin-top: 25px;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        border: 1px solid black;
+        border-radius: 10px;
+        padding: 15px;
+        width: 1200px;
+        margin-left: 60px;
+    } */
+    
+    .subject-row {
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+    .marksdetails div {
+        margin-top: 20px;
+    }
+    
+    .marksdetails form input {
+        margin-left: 2px;
+        margin: 10px;
+        width: 200px;
+        padding: 5px;
+    }
+    
+    .border {
+        border: 1px solid black;
+        border-radius: 0.5rem;
+        margin-left: 1px;
+        padding: 1.5rem;
+    }
+    
+    h4 {
+        display: flex;
+        justify-content: center;
+        font-weight: 500;
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    .main-container {
+        display: none;
+        border: 1px solid black;
+        height: 750px;
+        width: 1000px;
+        margin: auto;
+        background-color: rgb(239, 243, 245);
+    }
+    
+    .table {
+        margin-left: 160px;
+        margin-top: 54px;
+        text-align: center;
+    }
+    
+    table,
+    th,
+    td {
+        border: 2px solid rgb(64, 194, 238);
+        border-collapse: collapse;
+    }
+    
+    th,
+    td {
+        padding: 5px;
+        text-align: center;
+    }
+    
+    td {
+        font-family: 'Courier New', Courier, monospace;
+        color: black;
+    }
+    
+    th,
+    tr {
+        color: rgb(64, 194, 238);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    .school {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
+        margin-top: 20px;
+        font-size: 30px;
+    }
+    
+    .marks {
+        text-align: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-top: 25px;
+        font-size: 17px;
+    }
+    
+    .s-no {
+        margin-left: 20px;
+        width: 100px;
+        margin-top: -80px;
+    }
+    
+    .sno {
+        margin-left: 50px;
+        margin-top: -17px;
+        font-family: 'Courier New', Courier, monospace;
+        width: 60px;
+    }
+    
+    .name {
+        margin-top: 120px;
+        margin-left: 70px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        width: 500px;
+    }
+    
+    .f-name {
+        margin-left: 70px;
+        margin-top: 15px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        width: 500px;
+    }
+    
+    .m-name {
+        margin-left: 70px;
+        margin-top: 15px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        width: 500px;
+    }
+    
+    .roll-no {
+        margin-left: 70px;
+        margin-top: 15px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        /* border: 1px solid black; */
+        width: 200px;
+    }
+    
+    .Roll-No {
+        /* border: 1px solid black; */
+        margin-top: -17px;
+        margin-left: 66px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    .Name {
+        /* border: 1px solid black; */
+        margin-top: -18px;
+        margin-left: 114px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    .F-name {
+        /* border: 1px solid black; */
+        margin-top: -18px;
+        margin-left: 115px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    .M-name {
+        /* border: 1px solid black; */
+        margin-top: -18px;
+        margin-left: 123px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    .pass {
+        margin-left: 70px;
+        /* border: 1px solid black; */
+        width: 150px;
+        margin-top: 45px;
+    }
+    
+    .Pass {
+        /* border: 1px solid black; */
+        margin-top: -18px;
+        margin-left: 64px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    .loader {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 200px;
+        display: none;
+    }
+    
+    .loader iframe {
+        width: 200px;
+        height: 200px;
+    }
+    
+    .image {
+        display: flex;
+        justify-content: center;
+        margin-top: -70px;
+    }
+    
+    .image img {
+        width: 200px;
+        height: 200px;
+    }
+    
+    .p-btn{
+        display: flex;
+        margin: 3rem 26rem;
+        margin-bottom: 1rem;
+        padding: 0.8rem 3rem;
+        border: 1px solid black;
+        border-radius: 4px;
+    }
+    .p-btn:hover {
+        cursor: pointer;
+    }
+    .logout{
+        display: flex;
+        margin-left: 1250px;
+        width: 20px;
+        margin-top: 10px;
+    }
+    .logOut{
+        padding: 10px;
+    }
+    .logOut:hover{
+        cursor: pointer;
+    }
