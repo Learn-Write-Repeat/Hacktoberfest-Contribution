@@ -341,6 +341,15 @@
       "short_description": "A simple tool to convert between different forms of units of length,mass,area,temperature and time",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Unit_Converter/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Unit_Converter/"
+    },
+    {
+      "name": "Md Atif",
+      "github_username": "Atif0604",
+      "image_url": "https://avatars.githubusercontent.com/u/64218887?v=4",
+      "title": "Weather-App",
+      "short_description": "Simple Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Weather-App/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Weather-App/"
     }
   ]
 }
