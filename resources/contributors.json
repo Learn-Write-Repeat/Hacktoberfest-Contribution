@@ -271,8 +271,6 @@
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/pomodoro-timer/"
     },
     {
-
-
       "name": "Anas Khan",
       "github_username": "anaskhan28",
       "image_url": "https://avatars.githubusercontent.com/u/87796038?s=400&u=609ffdd767cef890e23e9cc3a7f75a0d601e8264&v=4",
@@ -280,8 +278,8 @@
       "short_description": "Soundwave is a music website which is made up of html and css",
       "page_url": "https://github.com/anaskhan28/Hacktoberfest-Contribution/tree/master/contributions/Soundwave",
       "folder_url": "https://github.com/anaskhan28/Hacktoberfest-Contribution/tree/master/contributions/Soundwave"
-=======
-=======
+    },
+    {
       "name": "Shivam Gupta",
       "github_username": "shivam-0510",
       "image_url": "https://avatars.githubusercontent.com/u/73394311?v=4",
@@ -291,7 +289,6 @@
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/result_marksheet_generator_javascript/"
     },
     {
-
       "name": "Fatima Reefat",
       "github_username": "fatimareefat",
       "image_url": "https://avatars.githubusercontent.com/u/83615173?v=4",
@@ -342,11 +339,6 @@
       "image_url": "https://avatars.githubusercontent.com/u/77075449?v=4",
       "title": "DIGITAL CLOCK WITH JAVASCRIPT",
       "short_description": "Design a 12 hours format digital clock including Date (Day, Month, Year), Time (Hours, Minutes, Seconds), and Period (AM/PM) using Javascript, CSS and HTML.",
-
-      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/digital_clock_js/",
-      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/digital_clock_js/"
-
-=======
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Digital_Clock_JS/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Digital_Clock_JS/"
     },
@@ -412,7 +404,6 @@
       "short_description": "This project is made using javascript.It will convert any currencies",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Currency-Converter/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Currency-Converter/"
-
     }
   ]
 }
