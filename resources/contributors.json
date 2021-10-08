@@ -404,6 +404,15 @@
       "short_description": "This project is made using javascript.It will convert any currencies",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Currency-Converter/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Currency-Converter/"
+    },
+    {
+      "name": "Aditya Mahimkar",
+      "github_username": "aditya9110",
+      "image_url": "https://avatars.githubusercontent.com/u/40512329?v=4",
+      "title": "ToDo List App using Flask",
+      "short_description": "The web app is used to create, update, delete and manage users task list.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/todo_list_using_flask/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/todo_list_using_flask/"
     }
   ]
 }

@@ -1,0 +1,51 @@
+html {
+    background: url(https://image.freepik.com/free-photo/top-view-desk-top-with-list-laptop_23-2148443691.jpg) no-repeat center center fixed; 
+    background-size: cover;
+}
+
+h1 {
+    font-size: 35px;
+    font-family: Georgia, Times, serif;
+    font-weight: bold;
+    position: relative;
+    top: 90px;
+    left: 180px;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: Georgia, Times, serif;
+    position: relative;
+    top: 110px;
+    left: 150px;
+}
+
+form {
+    position: relative;
+    top: 90px;
+    left: 150px;
+}
+
+table, td, th {
+    border: 1px solid #aaa;
+}
+
+table {
+    /* background-color: rgb(97, 243, 211); */
+    /* opacity: 0.5; */
+    border-collapse: collapse;
+    width: 30%;
+    position: relative;
+    top: 120px;
+    left: 100px;
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
