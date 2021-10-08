@@ -9,8 +9,8 @@ Visit this [Netlify link](https://discord-clone-931d1.web.app/) to see a live ve
 
 ## Screenshots
 
-![Alt text](/contributions/discord_clone_using_react_redux/discord-clone-1.png "Main")
+![Alt text](https://raw.githubusercontent.com/Learn-Write-Repeat/Hacktoberfest-Contribution/master/contributions/discord_clone_using_react_redux/discord-clone-1.png)
 
-![Alt text](/contributions/discord_clone_using_react_redux/discord-clone-2.png "Chat")
+![Alt text](https://raw.githubusercontent.com/Learn-Write-Repeat/Hacktoberfest-Contribution/master/contributions/discord_clone_using_react_redux/discord-clone-2.png)
 
 
