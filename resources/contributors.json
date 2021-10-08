@@ -422,6 +422,15 @@
       "short_description": "Simple Movie Search App in HTML, CSS, and JavaScript using the APIs for fetching movies information.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Movie-Search-App/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Movie-Search-App/"
+    },
+    {
+      "name": "Vishnu Darshan Sanku",
+      "github_username": "Vsanku01",
+      "image_url": "https://avatars.githubusercontent.com/u/46449442?v=4",
+      "title": "Discord Clone using React and Redux",
+      "short_description": "Simple Discord Clone built using React and Redux, added google authentication and used firebase to store the user messages.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/discord_clone_using_react_redux/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/discord_clone_using_react_redux/"
     }
   ]
 }
