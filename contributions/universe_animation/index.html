@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
+    <title>Universe Anime</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body {
+        overflow-x: hidden;
+      }
+
+      .star {
+        position: absolute;
+        border-radius: 100%;
+        opacity: 0.7;
+      }
+      .backgrounds {
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        -webkit-transform: translateZ(0);
+        transform: translateZ(0);
+        z-index: -1;
+      }
+      .backgrounds .background {
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+        position: absolute;
+        left: 0;
+        top: 0;
+        background-attachment: fixed;
+      }
+      .overlay:after {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        top: 0;
+        background: #00000073;
+        opacity: 0.8;
+      }
+      header {
+        width: 100%;
+        height: 100vh;
+        position: relative;
+        overflow: hidden;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      header h1,
+      .disclaimer {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+        text-transform: uppercase;
+        font-weight: normal;
+        padding: 30px 0;
+        border-top: 1px solid rgba(255, 255, 255, 0.3);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+        width: 100%;
+        clear: both;
+        color: #fff;
+      }
+      section {
+        width: 100%;
+        float: left;
+        overflow: hidden;
+        padding-bottom: 100px;
+      }
+      .container {
+        width: 970px;
+        margin: 0 auto;
+        max-width: 90%;
+        -webkit-transform: translateZ(1000px);
+        transform: translateZ(1000px);
+      }
+      .planet {
+        width: 40%;
+        clear: both;
+        height: 270px;
+        border-radius: 2px;
+        margin: 2vh 0;
+        padding: 10px;
+      }
+      .planet h1 {
+        font-weight: normal;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+        color: #fff;
+        text-align: center;
+      }
+      .planet img {
+        max-width: 100%;
+        height: auto;
+      }
+      .planet--left {
+        float: left;
+      }
+      .planet--right {
+        float: right;
+      }
+      .footer-section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      footer {
+        height: 50px;
+        color: #fff;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="backgrounds overlay">
+      <div class="background" data-aos="fade-in" data-aos-duration="1500" style="background-image: url('images/universe.jpg')"></div>
+    </div>
+    <header>
+      <div class="container">
+        <div class="heading" data-aos="fade-down">
+          <h1>Universe Animation</h1>
+        </div>
+      </div>
+    </header>
+    <section>
+      <div class="container">
+        <div class="planet planet--left" data-aos="fade-right">
+          <img src="images/mercury.png" alt="" />
+          <h1>Mercury</h1>
+        </div>
+        <div class="planet planet--right" data-aos="fade-left">
+          <img src="images/venus.png" alt="" />
+          <h1>Venus</h1>
+        </div>
+        <div class="planet planet--left" data-aos="fade-right">
+          <img src="images/earth.png" alt="" />
+          <h1>Earth</h1>
+        </div>
+        <div class="planet planet--right" data-aos="fade-left">
+          <img src="images/mars.png" alt="" />
+          <h1>Mars</h1>
+        </div>
+        <div class="planet planet--left" data-aos="fade-right">
+          <img src="images/jupiter.png" alt="" />
+          <h1>Jupiter</h1>
+        </div>
+        <div class="planet planet--right" data-aos="fade-left">
+          <img src="images/saturn.png" alt="" />
+          <h1>Saturn</h1>
+        </div>
+        <div class="planet planet--left" data-aos="fade-right">
+          <img src="images/uranus.png" alt="" />
+          <h1>Urenus</h1>
+        </div>
+        <div class="planet planet--right" data-aos="fade-left">
+          <img src="images/neptune.png" alt="" />
+          <h1>Neptune</h1>
+        </div>
+      </div>
+    </section>
+    <section class="footer-section">
+      <div class="container" style="text-align: center">
+        <h1 class="disclaimer">Made with 💘 by Umesh Kumar</h1>
+      </div>
+    </section>
+    <script>
+      const numStars = 500;
+      const stars = [];
+
+      for (let i = 0; i < numStars; i++) {
+        let star = document.createElement("div");
+        star.classList.add("star");
+        star.style.background = "#fff";
+        star.style.left = `${Math.floor(Math.random() * 100)}vw`;
+        star.style.top = `${Math.floor(Math.random() * 500)}vh`;
+        star.style.transform = `scale(${Math.random()})`;
+        star.style.width = `${Math.random() * 3}px`;
+        star.style.height = star.style.width;
+        stars.push(star);
+        document.body.append(star);
+      } // Keyframes
+      stars.forEach((el, i, ra) => {
+        let to = {
+          x: Math.random() * (i % 2 === 0 ? -11 : 11),
+          y: Math.random() * 12,
+        };
+
+        let anim = el.animate(
+          [
+            {
+              opacity: `${Math.random()}`,
+              transform: "translate(0, 0)",
+            },
+            {
+              opacity: 0,
+              transform: `translate(${to.x}rem, ${to.y}rem)`,
+            },
+          ],
+          {
+            duration: (Math.random() + 1) * 1000, // random duration
+            direction: "alternate",
+            fill: "both",
+            iterations: Infinity,
+            easing: "ease-in-out",
+          }
+        );
+      });
+    </script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+      AOS.init({
+        duration: 1300, // values from 0 to 3000, with step 50ms
+        easing: "ease",
+      });
+    </script>
+  </body>
+</html>

@@ -431,6 +431,15 @@
       "short_description": "Simple Discord Clone built using React and Redux, added google authentication and used firebase to store the user messages.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/discord_clone_using_react_redux/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/discord_clone_using_react_redux/"
+    },
+    {
+      "name": "Umesh Kumar",
+      "github_username": "Umesh-JNU",
+      "image_url": "https://avatars.githubusercontent.com/u/56982559?s=400&u=077cb90529942a2e434c961ca145d0c4ffae31be&v=4",
+      "title": "Universe Animation",
+      "short_description": "Animation of Universe using AOS and particle effect",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/universe_animation/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/universe_animation/"
     }
   ]
 }
