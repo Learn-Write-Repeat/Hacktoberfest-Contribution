@@ -1,4 +1,4 @@
-# Sign in and Register Form
+# Mern Login Form
 
 ## Introduction
 
