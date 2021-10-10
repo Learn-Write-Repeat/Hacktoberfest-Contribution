@@ -431,6 +431,15 @@
       "short_description": "Simple Discord Clone built using React and Redux, added google authentication and used firebase to store the user messages.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/discord_clone_using_react_redux/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/discord_clone_using_react_redux/"
+    },
+    {
+      "name": "Rajbir Banerjee",
+      "github_username": "rajbir21-droid",
+      "image_url": "https://avatars.githubusercontent.com/u/64858573?v=4",
+      "title": "Mern Login Form",
+      "short_description": "Simple Login form and Register form which register new user and store it in MongoDB database",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Mern_Login_Form/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Mern_Login_Form/"
     }
   ]
 }
