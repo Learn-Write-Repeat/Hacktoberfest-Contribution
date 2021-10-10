@@ -1,7 +1,7 @@
 # Welcome to Tic Tac Toe
 ## Project developed by VenkataRohith07
 
-Simple Tic-Tac-Toe Game using JavaScript
+
 
 Simple Tic-Tac-Toe Game using JavaScript,HTML,CSS.
 
