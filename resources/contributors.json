@@ -431,6 +431,15 @@
       "short_description": "Simple Discord Clone built using React and Redux, added google authentication and used firebase to store the user messages.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/discord_clone_using_react_redux/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/discord_clone_using_react_redux/"
+    },
+    {
+      "name": "Md Atif",
+      "github_username": "Atif0604",
+      "image_url": "https://avatars.githubusercontent.com/u/64218887?v=4",
+      "title": "Double Vertical Slider",
+      "short_description": "A Simple Double Vertical Slider App written in HTML, CSS and JavaScript .",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Double-Vertical-Slider/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Double-Vertical-Slider/"
     }
   ]
 }
