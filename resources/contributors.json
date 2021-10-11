@@ -431,6 +431,16 @@
       "short_description": "Simple Discord Clone built using React and Redux, added google authentication and used firebase to store the user messages.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/discord_clone_using_react_redux/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/discord_clone_using_react_redux/"
+    },
+     {
+      "name": "Nikita",
+      "github_username": "geekygirl8",
+      "image_url": "https://avatars.githubusercontent.com/geekygirl8",
+      "title": "snake_apple_webgame",
+      "short_description": "Simple Snake and apple eating web game developed using HTML,CSS and Javascript which navigates using arrow keys.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/snake_apple_webgame/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/snake_apple_webgame/"
     }
+    
   ]
 }
