@@ -476,6 +476,15 @@
       "short_description": "Simple tic tac toe two player,game made by using HTML,CSS,JavaScript.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Better-Tictactoe/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Better-Tictactoe/"
+    },
+    {
+      "name": "Venkata Sai Tanish Jonnadula",
+      "github_username": "venkatasaitanish",
+      "image_url": "https://avatars.githubusercontent.com/u/87538078?&v=4",
+      "title": "Simon Game",
+      "short_description": "A simple memory game using HTML, CSS and Javscript with differnt sounds trigerring and memorising the patterns.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Simon-Game/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Simon-Game/"
     }
   ]
 }

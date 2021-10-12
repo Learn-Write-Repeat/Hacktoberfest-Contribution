@@ -1,0 +1,124 @@
+body{
+    background-color: rgb(176, 222, 253);
+    font-family: Solway, cursive;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
+
+/* Styling for text at top */
+#same-row{
+    position: relative;
+    margin-bottom: -20px;
+}
+
+#level-title{
+    display: inline-block;
+}
+
+#high-score{
+    color: orange;
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+}
+
+/* Styling for the color buttons */
+#btn-group{
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+
+.btn{
+    border: 8px solid black;
+    border-radius: 20%;
+    display: inline-block;
+    margin: 20px;
+    height: 180px;
+    width: 180px;
+}
+
+.btn:hover{
+    cursor: pointer;
+}
+
+#red{
+    background-color: red;
+}  
+#green{
+    background-color: green;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+
+.game-over{
+    background-color: red;
+    opacity: 0.5;
+}
+
+.pressed{
+    box-shadow: 0 0 20px black;
+}
+
+/* Styling for overlay page */
+#overlay{
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 2;
+}
+
+#overlay-display{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 50px;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+.enter-btn{
+    background-color: rgb(25, 32, 32);
+    border: 1px solid white;
+    border-radius: 12px;
+    height: 60px;
+    width: 200px;
+    font-size: 32px;
+    color: white;
+    cursor: pointer;
+}
+
+/* Making Responsive */
+@media only screen and (max-width: 768px) { 
+    #high-score{
+        position: static;
+        display: block;
+    }
+    #level-title{
+        display: block;
+    }
+
+    #same-row{
+        margin-bottom: 0;
+    }
+
+    .btn{
+        border: 6px solid black;
+        height: 120px;
+        width: 120px;
+        margin: 20px;
+    }
+}
