@@ -458,6 +458,15 @@
       "short_description": "A Simple Double Vertical Slider App written in HTML, CSS and JavaScript .",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Double-Vertical-Slider/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Double-Vertical-Slider/"
+    },
+    {
+      "name": "Rajbir Banerjee",
+      "github_username": "rajbir21-droid",
+      "image_url": "https://avatars.githubusercontent.com/u/64858573?v=4",
+      "title": "Mern Login Form",
+      "short_description": "Simple Login form and Register form which register new user and store it in MongoDB database",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Mern_Login_Form/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Mern_Login_Form/"
     }
   ]
 }
