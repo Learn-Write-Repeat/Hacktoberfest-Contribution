@@ -449,6 +449,15 @@
       "short_description": "Animation of Universe using AOS and particle effect",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/universe_animation/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/universe_animation/"
+    },
+    {
+      "name": "Md Atif",
+      "github_username": "Atif0604",
+      "image_url": "https://avatars.githubusercontent.com/u/64218887?v=4",
+      "title": "Double Vertical Slider",
+      "short_description": "A Simple Double Vertical Slider App written in HTML, CSS and JavaScript .",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Double-Vertical-Slider/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Double-Vertical-Slider/"
     }
   ]
 }
