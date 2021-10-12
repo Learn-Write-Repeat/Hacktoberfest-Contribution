@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Simon Game</title>
+        <link rel="stylesheet" href="style.css" type="text/css">
+        <link href="https://fonts.googleapis.com/css2?family=Solway&display=swap" rel="stylesheet">
+        <script src="simon.js" type="text/javascript" defer></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <link rel="icon" href="favicon.png" type="image/x-icon">
+    </head>
+
+    <body>
+        <div>
+            <div id="same-row">
+                <h1 id="level-title">Level 1</h1>
+                <h1 id="high-score">Highest Score: 0</h1>
+            </div>
+            <h1 id="score">Score: 0</h1>
+
+            <!--Color Button Group-->
+            <div id="btn-group">
+                <div>
+                    <div type="button" id="green" class="btn"></div>
+                    <div type="button" id="red" class="btn"></div>
+                </div>
+                <div>
+                    <div type="button" id="yellow" class="btn"></div>
+                    <div type="button" id="blue" class="btn"></div>
+                </div>
+            </div>
+        </div>
+
+        <!--Overlay Page before the start of the game-->
+        <div id="overlay">
+            <div id="overlay-display">
+            <p>Click Enter To Start The Game</p>
+            <button class="enter-btn">Enter</button>
+            </div>
+        </div>
+
+    </body>
+
+</html>
