@@ -431,6 +431,15 @@
       "short_description": "Simple Discord Clone built using React and Redux, added google authentication and used firebase to store the user messages.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/discord_clone_using_react_redux/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/discord_clone_using_react_redux/"
+    },
+    {
+      "name": "Abhishek Bhagate",
+      "github_username": "archit11111",
+      "image_url": "https://avatars.githubusercontent.com/u/40712852?v=4",
+      "title": "Handwritten Digit Recognition",
+      "short_description": "Implemented handwritten digit recognition on MNIST dataset using neural network and backpropagation algorithm from scratch.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/handwritten_digits_recognition/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/handwritten_digits_recognition/"
     }
   ]
 }
