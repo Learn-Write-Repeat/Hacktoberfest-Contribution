@@ -485,6 +485,15 @@
       "short_description": "A simple memory game using HTML, CSS and Javscript with differnt sounds trigerring and memorising the patterns.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Simon-Game/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Simon-Game/"
+    },
+    {
+      "name": "Swapnil Rawat",
+      "github_username": "swapnilr17",
+      "image_url": "https://avatars.githubusercontent.com/u/50523256?s=96&v=4",
+      "title": "Text Extraction from Image Web App",
+      "short_description": "A Simple Image Text Extraction web app built on node js",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Image-Text-Extraction Web App/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Image-Text-Extraction Web App/"
     }
   ]
 }

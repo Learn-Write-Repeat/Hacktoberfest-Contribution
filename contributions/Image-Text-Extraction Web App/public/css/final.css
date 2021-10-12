@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding:0px;
+    margin:0px;
+
+}
+body{
+    height:100vh;
+    width:100vw;
+}
+
+.uploadbackground{
+    display:flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content:center;
+    background: -webkit-gradient(linear, left bottom, left top, from(#fbc2eb), to(#a18cd1));
+  background: -webkit-linear-gradient(bottom, #fbc2eb 0%, #a18cd1 100%);
+  background: -moz-linear-gradient(bottom, #fbc2eb 0%, #a18cd1 100%);
+  background: -o-linear-gradient(bottom, #fbc2eb 0%, #a18cd1 100%);
+  background: linear-gradient(to top, #fbc2eb 0%, #a18cd1 100%);
+}
+
+.container{
+    padding:10px;
+    background: #ffffff;
+    border-radius:5px;
+    box-shadow: 0 0 15px rgba(92, 92, 92, 0.644);
+}
+
+.image{
+    display:flex;
+    justify-content: center;
+    background:whitesmoke;
+    border-radius:5px;
+   
+
+}
+.image img{
+    border-radius: 1px;
+    max-height: 680px;
+    max-width: 680px;
+}
+
+.imgtext{
+    display:inline-flex;
+    justify-content:flex-end;
+    align-items: center;
+    width:100%;
+}
+
+.imgtext p{
+    width:100%;
+    padding:15px;
+    padding-right:55px;
+    margin-top: 15px;
+    text-align: center;
+    background:whitesmoke;
+    border-bottom: 1px solid rgba(85, 85, 85, 0.692);
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.imgtext img{
+    /* margin-left: -50px; */
+    position:absolute;
+    margin-top:15px;
+    padding-right:10px;
+    opacity: 0.2;
+}
+
+.imgtext img:hover{
+    opacity:1;
+    cursor: pointer;
+}
+
+.routes{
+    padding:10px;
+    padding-top:20px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    color:white;
+}
+
+.routes img{
+    background:#2793da;
+    border-radius:5px;
+    margin-left:10px;
+    margin-right:10px;
+    color:white;
+    
+}
+
+.routes img{
+    padding:10px;
+}
+
+#toast{
+    position:fixed;
+    top:0;
+    left:50%;
+    transform:translate(-50%);
+    background-color:rgb(85, 84, 84);
+    color:#fff;
+    padding:16px;
+    border-radius:4px;
+    text-align:center;
+    z-index:1;
+    box-shadow:0 0 20px rgba(0,0,0,0.3);
+    visibility:hidden;
+    opacity:0;
+  }
+  
+  #toast.show{
+    visibility:visible;
+    animation:fadeInOut 3s;
+  }
+  
+  @keyframes fadeInOut{
+    5%,95%{opacity:1;top:50px}
+    15%,85%{opacity:1;top:30px}
+  }
