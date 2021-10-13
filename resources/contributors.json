@@ -486,5 +486,13 @@
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Simon-Game/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Simon-Game/"
     }
+    {
+      "name": "Aditya Choubey",
+      "github_username": "aditya-c2512",
+      "image_url": "https://avatars.githubusercontent.com/u/87538078?&v=4",
+      "title": "Computer Graphics Matrix and Vector library",
+      "short_description": "A small light-weight library for advanced Matrix and Vector applications.",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Computer_Graphics_Matrix_Vector/"
+    }
   ]
 }
