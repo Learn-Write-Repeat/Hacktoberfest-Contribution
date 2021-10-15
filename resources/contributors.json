@@ -485,6 +485,15 @@
       "short_description": "A simple memory game using HTML, CSS and Javscript with differnt sounds trigerring and memorising the patterns.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Simon-Game/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Simon-Game/"
+    },
+    {
+      "name": "Jon Moon",
+      "github_username": "JonMoon74",
+      "image_url": "https://avatars.githubusercontent.com/u/28106779?s=40&v=4",
+      "title": "Color code Convertors",
+      "short_description": "A pair of python scripts to convert color reference codes form RGB to Hex or from Hex to RGB.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Color_Code_Convertors_Python/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Color_Code_Convertors_Python/"
     }
   ]
 }
