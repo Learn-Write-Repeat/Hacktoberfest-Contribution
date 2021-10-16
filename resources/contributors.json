@@ -494,6 +494,15 @@
       "short_description": "A Simple Image Text Extraction web app built on node js and EJS with Tesseract Js",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/image_text_extraction_web_app/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/image_text_extraction_web_app/"
+    },
+    {
+      "name": "Narayanan",
+      "github_username": "TheProgrammingShinigami",
+      "image_url": "https://avatars.githubusercontent.com/u/29477644?v=4",
+      "title": "Magic Ball",
+      "short_description": "A game that mimics magic ball behavior which answers based on a number",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/magic_ball_javascript/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/magic_ball_javascript/"
     }
   ]
 }
