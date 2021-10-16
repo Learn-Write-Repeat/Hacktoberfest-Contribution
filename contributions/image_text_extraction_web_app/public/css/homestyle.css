@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+ body{
+   margin:0;
+   padding:0;
+   box-sizing:border-box;
+ }
+
+ .bodybackground{
+   height:100vh;
+   width: 100vw;
+   display: flex;
+   align-items:center;
+   justify-content: center;
+   background: -webkit-gradient(linear, left bottom, left top, from(#fbc2eb), to(#a18cd1));
+  background: -webkit-linear-gradient(bottom, #fbc2eb 0%, #a18cd1 100%);
+  background: -moz-linear-gradient(bottom, #fbc2eb 0%, #a18cd1 100%);
+  background: -o-linear-gradient(bottom, #fbc2eb 0%, #a18cd1 100%);
+  background: linear-gradient(to top, #fbc2eb 0%, #a18cd1 100%);
+
+ }
+
+ .formstyle{
+   padding: 100px 60px;
+   padding-bottom:20px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+   background:whitesmoke;
+   border-radius: 5px;
+   box-shadow: 0 0 15px rgba(92, 92, 92, 0.644);
+ }
+
+ form input{
+  display: block;
+  text-align:center;
+  margin:10px;
+}
+form input[type=text]{
+border:0;
+display: block;
+background:white;
+margin: 20px auto;
+text-align:start;
+border-bottom: 1px solid rgba(49, 49, 49, 0.74);
+padding: 14px 20px;
+width: 400px;
+outline: none;
+color: black;
+transition: 0.25s;
+font-family: 'Poppins', sans-serif;
+text-transform: uppercase;
+}
+
+
+form input[type="submit"]{
+border:0;
+display: block;
+background:#0066FF;
+margin: 20px auto;
+text-align: center;
+padding: 14px 40px;
+outline: none;
+color:white;
+border-radius: 5px;
+transition: 0.25s;
+cursor: pointer;
+font-family: 'Poppins', sans-serif;
+text-transform: uppercase;
+}
+form input[type="submit"]{
+  background:#0359da;
+}
+
+.img{
+  width:150px;
+  height:150px;
+}
+
+.text{
+  font-family: 'Poppins', sans-serif;
+  font-size: 25px;
+}
+.or{
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  margin:0;
+  text-transform: uppercase;
+}
+
+footer{
+  font-family: 'Poppins', sans-serif;
+  font-size: 12px;
+  padding:10px;
+  padding-top: 50px;
+
+}

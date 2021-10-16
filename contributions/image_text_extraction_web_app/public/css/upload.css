@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 16px;
+}
+
+body {
+    margin: 0;
+    width:100vw;
+    height:100vh;
+    background: -webkit-gradient(linear, left bottom, left top, from(#fbc2eb), to(#a18cd1));
+    background: -webkit-linear-gradient(bottom, #fbc2eb 0%, #a18cd1 100%);
+    background: -moz-linear-gradient(bottom, #fbc2eb 0%, #a18cd1 100%);
+    background: -o-linear-gradient(bottom, #fbc2eb 0%, #a18cd1 100%);
+    background: linear-gradient(to top, #fbc2eb 0%, #a18cd1 100%);
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.main {
+    border-radius: 5px 5px 0 0;
+    background:white;
+    width:600px;
+    padding: 15px;
+    box-shadow: 0 0px 5px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    margin:0 auto;
+}
+
+p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+input[type="submit"]{
+    padding: 10px 30px;
+    text-decoration: none;
+    background: #06f;
+    border:0;
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+    outline: none;
+    border-radius:5px;
+}
+
+input[type="submit"]:active{
+    background: rgb(1, 79, 196);
+    outline: none;
+}
+
+.contain{
+    background:whitesmoke;
+    border-radius: 0 0 5px 5px;
+    padding: 15px;
+    width: 600px;
+    margin: 0 auto;
+    box-shadow: 0 0  5px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+}
+.image{
+    display: flex;
+    justify-content: center;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+}
+.image img{
+    display: block;
+    max-width:500px;
+    maxheight:500px;
+    border-radius:5px
+
+}
+.form input[type="submit"]{
+    margin-top:10px;
+    display:block;
+    border-style:solid;
+    cursor: pointer;
+}
+

@@ -1,0 +1,19 @@
+<link rel="stylesheet" href="/css/final.css">
+<div class="uploadbackground">
+<div class="container">
+<div class="image">
+<img src="<%= imageurl%>">
+</div>
+<span class="imgtext">
+  <p id="myinput"><%=imagetext%></p>
+  <img src="/image/copy.png" id="copy" width="35px" height="25px" onclick="showToast('Text Copied')">
+  <div id="toast"></div>
+</span>
+<div class="routes">
+  <a href="/"><img src="/image/back3.png" width = "45px" height = "45px" alt="routes"/></a>
+  <a href="/upload"><img src="/image/upload2.png" width = "45px" height = "45px" alt="routes"/></a>
+</div>
+</div>
+</div>
+
+<script src="/js/copy.js"></script>
