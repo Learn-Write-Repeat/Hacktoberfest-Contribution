@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400');
+
+body {
+	font-family: 'Roboto', arial, helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	color: white;
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 600px;
+	position: relative;
+}
+
+#color {
+  background-color: #60B494;
+}
+
+.containerInner1 {
+	margin-top: 5em;
+	padding: 2.5em 2.5em;
+	border-radius: 5px;
+}
+
+#textContainer {
+	min-height: 11em;
+	position: relative;
+}
+
+h1, h3 {
+	padding: 0;
+}
+
+h1 {
+	font-size: 1.9em;
+	font-weight: 300;
+	text-align: center;
+	line-height: 1.3em;
+}
+
+h3 {
+	margin-top: 1.5em;
+	font-size: 1.05em;
+	text-align: right;
+	font-weight: 300;
+}
+
+.containerInner2 {
+	margin-top: 2em;
+	margin-bottom: .5em;
+}
+
+.containerInner2::after {
+	content: '';
+	display: block;
+	clear: both;
+} 
+
+.twitter {
+	text-align: center;
+	float: left;
+	border-radius: 3px;
+	padding: 5px 10px;
+	border: 1px solid white;
+	display: inline-block;
+}
+
+i.fa {
+	color: white;
+	font-size: 1.8em;
+}
+
+.btnQuote {
+	float: right;
+}
+
+a {
+	font-family: 'Roboto', arial, helvetica, sans-serif;
+	text-decoration: none;
+	font-size: .8em;
+	color: white;
+}
+
+.btn {
+	padding: 9px 14px;
+	border: 1px solid white;
+	border-radius: 3px;
+	display: inline-block;
+}
+
+footer {
+	text-align: center;
+	font-size: 1em;
+	color: #333;
+}
