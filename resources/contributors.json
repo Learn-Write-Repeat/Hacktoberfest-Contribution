@@ -512,6 +512,15 @@
       "short_description": "Basic Validation Form used in various website for registering user",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Validation_Form/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Validation_Form/"
+    },
+    {
+      "name": "John Dao",
+      "github_username": "johndao1005",
+      "image_url": "https://avatars.githubusercontent.com/u/68571078?v=4",
+      "title": "Mine Sweeper",
+      "short_description": "A simple mine sweeper game in Javascript which good for beginner to understand data structure and array manipliate.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/mine-sweeper/",
+      "folder_url":"https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/mine-sweeper"
     }
   ]
 }
