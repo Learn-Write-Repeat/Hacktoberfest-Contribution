@@ -1,0 +1,27 @@
+<link rel="stylesheet" href="/css/upload.css">
+<link rel="stylesheet" href="/css/bulma.min.css">
+<body>
+    <div class="main">
+<p>Select the images</p>
+<form method="POST" action="/upload" enctype="multipart/form-data"> 
+    <div id="file-js-example" class="file has-name is-mobile is-centered mb-4 mt-4">
+        <label class="file-label">
+          <input class="file-input" type="file" name="resume">
+          <span class="file-cta">
+            <span class="file-icon">
+              <i class="fas fa-upload"></i>
+            </span>
+            <span class="file-label">
+              Choose a file…
+            </span>
+          </span>
+          <span class="file-name">
+            No file uploaded
+          </span>
+        </label>
+      </div>
+    <input required type="submit" name="btn_upload_profile_pic" value="Submit"> 
+</form>
+</div>
+</body>
+<script src="/js/upload.js"></script>

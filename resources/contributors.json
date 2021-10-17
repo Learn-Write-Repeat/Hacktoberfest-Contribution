@@ -440,6 +440,87 @@
       "short_description": "Simple Snake and apple eating web game developed using HTML,CSS and Javascript which navigates using arrow keys.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/snake_apple_webgame/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/snake_apple_webgame/"
+    },
+    {
+      "name": "Abhishek Bhagate",
+      "github_username": "archit11111",
+      "image_url": "https://avatars.githubusercontent.com/u/40712852?v=4",
+      "title": "Handwritten Digit Recognition",
+      "short_description": "Implemented handwritten digit recognition on MNIST dataset using neural network and backpropagation algorithm from scratch.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/handwritten_digits_recognition/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/handwritten_digits_recognition/"
+    },
+    {
+      "name": "Umesh Kumar",
+      "github_username": "Umesh-JNU",
+      "image_url": "https://avatars.githubusercontent.com/u/56982559?s=400&u=077cb90529942a2e434c961ca145d0c4ffae31be&v=4",
+      "title": "Universe Animation",
+      "short_description": "Animation of Universe using AOS and particle effect",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/universe_animation/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/universe_animation/"
+    },
+    {
+      "name": "Md Atif",
+      "github_username": "Atif0604",
+      "image_url": "https://avatars.githubusercontent.com/u/64218887?v=4",
+      "title": "Double Vertical Slider",
+      "short_description": "A Simple Double Vertical Slider App written in HTML, CSS and JavaScript .",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Double-Vertical-Slider/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Double-Vertical-Slider/"
+    },
+    {
+      "name": "Rajbir Banerjee",
+      "github_username": "rajbir21-droid",
+      "image_url": "https://avatars.githubusercontent.com/u/64858573?v=4",
+      "title": "Mern Login Form",
+      "short_description": "Simple Login form and Register form which register new user and store it in MongoDB database",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Mern_Login_Form/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Mern_Login_Form/"
+    },
+    {
+      "name": "Chodisetti Venkata Rohith",
+      "github_username": "VenkataRohith07",
+      "image_url": "https://avatars.githubusercontent.com/u/88261778?v=4",
+      "title": "Better-Tictactoe",
+      "short_description": "Simple tic tac toe two player,game made by using HTML,CSS,JavaScript.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Better-Tictactoe/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Better-Tictactoe/"
+    },
+    {
+      "name": "Venkata Sai Tanish Jonnadula",
+      "github_username": "venkatasaitanish",
+      "image_url": "https://avatars.githubusercontent.com/u/87538078?&v=4",
+      "title": "Simon Game",
+      "short_description": "A simple memory game using HTML, CSS and Javscript with differnt sounds trigerring and memorising the patterns.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Simon-Game/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Simon-Game/"
+    },
+    {
+      "name": "Swapnil Rawat",
+      "github_username": "swapnilr17",
+      "image_url": "https://avatars.githubusercontent.com/u/50523256?s=96&v=4",
+      "title": "Image Text Extraction Web App",
+      "short_description": "A Simple Image Text Extraction web app built on node js and EJS with Tesseract Js",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/image_text_extraction_web_app/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/image_text_extraction_web_app/"
+    },
+    {
+      "name": "Narayanan",
+      "github_username": "TheProgrammingShinigami",
+      "image_url": "https://avatars.githubusercontent.com/u/29477644?v=4",
+      "title": "Magic Ball",
+      "short_description": "A game that mimics magic ball behavior which answers based on a number",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/magic_ball_javascript/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/magic_ball_javascript/"
+    },
+    {
+      "name": "Anugam Siddhartha",
+      "github_username": "Sidcapman",
+      "image_url": "https://avatars.githubusercontent.com/u/63244127?v=4",
+      "title": "Validation Form",
+      "short_description": "Basic Validation Form used in various website for registering user",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Validation_Form/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Validation_Form/"
     }
   ]
 }

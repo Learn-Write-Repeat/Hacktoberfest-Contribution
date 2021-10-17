@@ -1,0 +1,103 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  background: #06e7f7;
+}
+
+.header h2 {
+  padding: 0px 30px;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.container {
+  border-radius: 0.5rem;
+  background: white;
+  padding: 10px;
+  width: 500px;
+  max-width: 100%;
+}
+.form {
+  padding: 20px 30px 30px;
+}
+
+.form-control {
+  margin-bottom: 10px;
+  padding-bottom: 20px;
+  position: relative;
+}
+
+.form-control label {
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+.form-control input {
+  display: block;
+  padding: 10px;
+  width: 100%;
+}
+
+.form-control.success input {
+  border-color: green;
+}
+.form-control.error input {
+  border-color: red;
+}
+
+.form-control i {
+  visibility: hidden;
+  position: absolute;
+  top: 35px;
+  right: 10px;
+}
+
+.form-control.success i.fa.fa-check-circle {
+  color: green;
+  visibility: visible;
+}
+.form-control.error i.fa.fa-exclamation-circle {
+  color: red;
+  visibility: visible;
+}
+
+.form-control small {
+  visibility: hidden;
+  color: red;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.form-control.error small {
+  visibility: visible;
+}
+#cpass {
+  display: none;
+  padding: 3px;
+  text-align: center;
+}
+#cpass.success {
+  display: block;
+  color: green;
+}
+#cpass.error {
+  display: block;
+  color: red;
+}
+button {
+  width: 100%;
+  font-size: 1em;
+  background: #419ba1;
+  color: white;
+  border: 2px solid white;
+  padding: 10px;
+  margin-top: 10px;
+}

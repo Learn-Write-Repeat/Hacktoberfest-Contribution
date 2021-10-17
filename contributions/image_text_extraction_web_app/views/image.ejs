@@ -1,0 +1,12 @@
+<%-include('./upload.ejs')%>
+<div class="contain">
+<div class = "image">
+<img src="./uploads/<%=name%>"/>
+</div>
+<div class="form">
+    <form action = "/imgprocess" method="POST" >
+    <input type ="hidden" name = "url" value="./uploads/<%=name%>">
+    <input type = "submit" value ="Upload"> 
+    </form>
+</div>
+</div>
