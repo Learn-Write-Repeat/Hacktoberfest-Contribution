@@ -513,5 +513,14 @@
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Validation_Form/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Validation_Form/"
     }
+    {
+      "name": "Jon",
+      "github_username": "Jonmoon74",
+      "image_url": "https://avatars.githubusercontent.com/u/28106779?s=40&v=4",
+      "title": "Python Color Convertor",
+      "short_description": "A pair of python codes to convert colors between RGB and HEx color spaces",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/python_color_convertors/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/python_color_convertors/"
+    },
   ]
 }
