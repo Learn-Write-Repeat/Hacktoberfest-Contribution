@@ -487,6 +487,7 @@
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Simon-Game/"
     },
     {
+<<<<<<< HEAD
       "name": "Swapnil Rawat",
       "github_username": "swapnilr17",
       "image_url": "https://avatars.githubusercontent.com/u/50523256?s=96&v=4",
@@ -512,6 +513,15 @@
       "short_description": "Basic Validation Form used in various website for registering user",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Validation_Form/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Validation_Form/"
+=======
+      "name": "Jon Moon",
+      "github_username": "JonMoon74",
+      "image_url": "https://avatars.githubusercontent.com/u/28106779?s=40&v=4",
+      "title": "Color code Convertors",
+      "short_description": "A pair of python scripts to convert color reference codes form RGB to Hex or from Hex to RGB.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Color_Code_Convertors_Python/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Color_Code_Convertors_Python/"
+>>>>>>> bb8d5286f68a6f472fd6f942597dcbf4e6f2229a
     }
     {
       "name": "Jon",
