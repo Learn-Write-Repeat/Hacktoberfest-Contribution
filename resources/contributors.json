@@ -539,6 +539,15 @@
       "short_description": "Created random quote generator using HTML,CSS and JavaScript",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/random_quote_generator/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/random_quote_generator/"
+    },
+    {
+      "name": "Saloni Shukla",
+      "github_username": "salonishukla206",
+      "image_url": "https://avatars.githubusercontent.com/u/48806039?s=400&u=7842f9218d94e031b9bc0032abde93ce3040fcce&v=4",
+      "title": "Brightness_Python",
+      "short_description": "Calculating Brightness value of an image",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Brightness_Python/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Brightness_Python/"
     }
   ]
 }
