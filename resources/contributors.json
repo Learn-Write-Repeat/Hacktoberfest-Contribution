@@ -548,6 +548,15 @@
       "short_description": "Calculating Brightness value of an image",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Brightness_Python/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Brightness_Python/"
-    }
+    },
+     {
+      "name": "Anish Shilpakar",
+      "github_username": "juju2181",
+      "image_url": "https://avatars.githubusercontent.com/u/43902648?v=4",
+      "title": "Morse Code Converter in Python",
+      "short_description": "Converts Morse Code to text and text to morse code",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Morse_Code_Converter/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Morse_Code_Converter/"
+    },
   ]
 }
