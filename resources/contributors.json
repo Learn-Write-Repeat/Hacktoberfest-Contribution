@@ -530,6 +530,15 @@
       "short_description": "A pair of python codes to convert colors between RGB and HEx color spaces",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/python_color_convertors/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/python_color_convertors/"
+    },
+    {
+      "name": "Mohammad Reza",
+      "github_username": "rza38",
+      "image_url": "https://avatars.githubusercontent.com/u/41227016?v=4",
+      "title": "Random quote generator",
+      "short_description": "Created random quote generator using HTML,CSS and JavaScript",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/random_quote_generator/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/random_quote_generator/"
     }
   ]
 }
