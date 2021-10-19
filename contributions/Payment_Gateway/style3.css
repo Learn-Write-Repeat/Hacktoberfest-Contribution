@@ -1,0 +1,194 @@
+html {
+    scroll-behavior: smooth;
+}
+* {
+    margin: 0;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #333;
+    color: #fff;
+    line-height: 1.6;
+    height: 100vh;
+
+}
+
+.main {
+    width: 100%;
+    height: 100%;
+    /* CSS smooth scroll */
+}
+
+.navbar{
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    display: flex;
+    width: 100%;
+    height: 60px;
+    background-color: rgba(0,0,0,0.7);
+    justify-content: center;
+    list-style: none;
+    justify-content: space-around;
+}
+
+.navbar ul {
+    display: flex;
+    list-style: none;
+    width: 100%;
+    justify-content: center;
+}
+
+.navbar ul li {
+    margin: 0 1rem;
+    padding: 1rem;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #f4f4f4;
+}
+
+.navbar ul li a:hover {
+    color: skyblue;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+}
+
+section h1 {
+    font-size: 4rem;
+    color: #0e7162;
+    font-size: 60px;
+    line-height: 1.3em;
+    margin-top: 20px;
+}
+
+section p {
+    color: #626262;
+    font-size: 20px;
+    line-height: 2em;
+}
+
+.image img {
+    height: 420px;
+    width: 500px;
+}
+
+section #home{
+    display: flex;
+}
+
+.content {
+    display: flex;
+}
+
+#home {
+    display: flex;
+    background-color: aliceblue;
+    background: url("bg.PNG");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#contact {
+    background: url("cont.PNG");
+    background-size: cover;
+}
+
+.contact-form {
+    width: 85%;
+    max-width: 600px;
+    background: #f1f1f1;
+    top: 50%;
+    left: 50%;
+    /* transform: translate(-50%,-50%); */
+    padding: 30px 40px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 0 20px gray;
+}
+
+.contact-form h1 {
+    margin: 0;
+    font-weight: 200;
+}
+
+.txtb {
+    border: 1px solid gray;
+    margin: 8px 0;
+    border-radius: 8px;
+    padding: 12px 18px;
+}
+
+.txtb label{
+    display: block;
+    text-align: left;
+    color: #333;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.txtb input, .txtb textarea{
+    width: 100%;
+    border: none;
+    background: none;
+    outline: none;
+    font-size: 18px;
+    margin-top: 6px;
+}
+
+.btn {
+    display: inline-block;
+    background: palevioletred;
+    padding: 14px 0;
+    color: white;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin-top: 8px;
+    width: 100%;
+}
+
+#donate {
+    background-image: url("charity.PNG");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.button {
+    position: relative;
+    text-align: center;
+    width: 250px;
+    padding: 40px;
+    font-weight: 35px;
+    color: aqua;
+    font-family: poppins;
+    font-weight: 400;
+    border: 5px solid gray;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-radius: 100px;
+    transition: 1.5s;
+    margin-left: 39%;
+    margin-top: 50px;
+}
+
+.button:hover {
+    box-shadow: 0 5px 50px #15f4ee, 0 5px 50px 0 #15f4ee, 0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee;
+    text-shadow: 0 0 5px #15f4ee, 0 0 5px #15f4ee;
+}
+
+.button a {
+    color: gray;
+    text-decoration: none;
+}
