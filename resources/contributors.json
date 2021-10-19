@@ -261,15 +261,17 @@
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/pomodoro-timer/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/pomodoro-timer/"
     },    
-    {
+  
+        {
             "name": "Debgandhar Ghosh",
             "github_username": "debg48",
             "image_url": "https://avatars.githubusercontent.com/u/66957584?v=4",
-            "title": "Language Detection Tool",
-            "short_description": "As the name suggests it detects the input language and translates it in english",
-            "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Language_Detection_tool_python/",
-            "folder_url":"https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Language_Detection_tool_python/"
+            "title": "Classical And Gate using Qiskit",
+            "short_description": "In this project we will be simulating classical AND circuit using quantum circuit simulation ,Qiskit.",
+            "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/and_qiskit/",
+            "folder_url":"https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/and_qiskit"
         }
+    
 
     
   ]
