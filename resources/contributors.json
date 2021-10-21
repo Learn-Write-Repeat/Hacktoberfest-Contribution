@@ -574,6 +574,15 @@
       "short_description": "It is a virtual payment application where we can pay using Razorpay",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Payment_Gateway/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Payment_Gateway"
+    },
+    {
+      "name": "Narayanan",
+      "github_username": "TheProgrammingShinigami",
+      "image_url": "https://avatars.githubusercontent.com/u/29477644?v=4",
+      "title": "Multi Counter App",
+      "short_description": "A flutter app to demonstrate increment and decrement counters",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/multi_counter_app_flutter/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/multi_counter_app_flutter/"
     }
   ]
 }
