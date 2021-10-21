@@ -555,8 +555,17 @@
       "image_url": "https://avatars.githubusercontent.com/u/64947831?s=400&u=3ffc79228f66185a7357d1addc38158131bef047&v=4",
       "title": "tribute_landing_page",
       "short_description": "it is a tribute page of someone whom you admire in your life",
-      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/<tribute_landing_page>/",
-      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/<tribute_landing_page>/"
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/tribute_landing_page/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/tribute_landing_page/"
+    },
+    {
+      "name": "Debgandhar Ghosh",
+      "github_username": "debg48",
+      "image_url": "https://avatars.githubusercontent.com/u/66957584?v=4",
+      "title": "Classical And Gate using Qiskit",
+      "short_description": "In this project we will be simulating classical AND circuit using quantum circuit simulation ,Qiskit.",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/and_qiskit/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/and_qiskit"
     }
   ]
 }
