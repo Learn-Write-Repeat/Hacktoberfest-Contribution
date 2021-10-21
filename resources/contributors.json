@@ -566,6 +566,14 @@
       "short_description": "In this project we will be simulating classical AND circuit using quantum circuit simulation ,Qiskit.",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/and_qiskit/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/and_qiskit"
+    },
+    {
+      "name": "Harmeet Kaur",
+      "github_username": "hk486",
+      "title": "Payment_Gateway",
+      "short_description": "It is a virtual payment application where we can pay using Razorpay",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Payment_Gateway/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Payment_Gateway"
     }
   ]
 }
