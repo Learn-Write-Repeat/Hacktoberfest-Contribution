@@ -583,6 +583,15 @@
       "short_description": "A flutter app to demonstrate increment and decrement counters",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/multi_counter_app_flutter/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/multi_counter_app_flutter/"
+    },
+    {
+      "name": "Luis Castro",
+      "github_username": "ferdox2",
+      "image_url": "https://avatars.githubusercontent.com/u/11093787?s=40&v=4",
+      "title": "Pokemon App",
+      "short_description": "A React App that displays cards with pokemon data fetched from a pokeapi",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/pokemon_app/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/pokemon_app/"
     }
   ]
 }
