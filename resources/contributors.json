@@ -570,6 +570,7 @@
     {
       "name": "Harmeet Kaur",
       "github_username": "hk486",
+      "image_url": "https://avatars.githubusercontent.com/u/68745383?v=4",
       "title": "Payment_Gateway",
       "short_description": "It is a virtual payment application where we can pay using Razorpay",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Payment_Gateway/",
@@ -587,6 +588,7 @@
     {
       "name": "Harmeet Kaur",
       "github_username": "hk486",
+      "image_url": "https://avatars.githubusercontent.com/u/68745383?v=4",
       "title": "To_Do_app",
       "short_description": "It is an app designed for writing what all tasks to be done",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/To_Do_app/",
@@ -595,11 +597,11 @@
     {
       "name": "Harmeet Kaur",
       "github_username": "hk486",
+      "image_url": "https://avatars.githubusercontent.com/u/68745383?v=4",
       "title": "Quiz-APP",
       "short_description": "It is a simple quiz app template",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Quiz-APP/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Quiz-APP/"
     }
-
   ]
 }
