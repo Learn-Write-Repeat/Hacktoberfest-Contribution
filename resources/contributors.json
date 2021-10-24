@@ -87,7 +87,7 @@
       "image_url": "https://avatars.githubusercontent.com/u/56752427?v=4",
       "title": "Calculator",
       "short_description": "Created Simple Calculator using HTML,CSS and Javascript.",
-      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/calculator/",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribu3333tion/contributions/calculator/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/calculator/"
     },
     {
@@ -570,6 +570,7 @@
     {
       "name": "Harmeet Kaur",
       "github_username": "hk486",
+      "image_url": "https://avatars.githubusercontent.com/u/68745383?v=4",
       "title": "Payment_Gateway",
       "short_description": "It is a virtual payment application where we can pay using Razorpay",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Payment_Gateway/",
@@ -592,6 +593,24 @@
       "short_description": "Converts Morse Code to text and text to morse code",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Morse_Code_Converter/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Morse_Code_Converter/"
+    },
+    {
+      "name": "Harmeet Kaur",
+      "github_username": "hk486",
+      "image_url": "https://avatars.githubusercontent.com/u/68745383?v=4",
+      "title": "To_Do_app",
+      "short_description": "It is an app designed for writing what all tasks to be done",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/To_Do_app/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/To_Do_app"
+    },
+    {
+      "name": "Harmeet Kaur",
+      "github_username": "hk486",
+      "image_url": "https://avatars.githubusercontent.com/u/68745383?v=4",
+      "title": "Quiz-APP",
+      "short_description": "It is a simple quiz app template",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Quiz-APP/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Quiz-APP/"
     }
   ]
 }
