@@ -1,0 +1,44 @@
+.column {
+    float: left;
+    width: 50%;
+    padding-left:150px;
+    padding-right:150px;
+    
+  }
+  
+  .column_2 {
+    float: left;
+    width: 10%;
+    padding:10px;
+  }
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  .desc {
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    border-style:solid;
+    border-color:white;
+  }
+  
+  #result {
+    text-align: center;
+    font-size: 30px;
+  }  
+
+  .container {
+    margin-top:50px;
+    position: relative;
+    font-size:45px;
+  }
+  
+  .intro {
+    position: absolute;
+    top: 5px;
+    padding:20px;
+  }
