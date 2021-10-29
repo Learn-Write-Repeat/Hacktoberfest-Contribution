@@ -611,6 +611,15 @@
       "short_description": "A React App that displays cards with pokemon data fetched from a pokeapi",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/pokemon_app/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/pokemon_app/"
+    },
+    {
+      "name": "Ibad Mukrom",
+      "github_username": "IbadMukrom",
+      "image_url": "https://avatars.githubusercontent.com/u/11093787?s=40&v=4",
+      "title": "Calculator App",
+      "short_description": "simple calculator code in python",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/simple_calculator_python/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/simple_calculator_python/"
     }
   ]
 }
