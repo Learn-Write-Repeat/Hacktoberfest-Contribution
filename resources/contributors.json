@@ -620,6 +620,16 @@
       "short_description": "A program to play Rock, Paper, Scissors against computer",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/game_rock_paper_scissors/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/game_rock_paper_scissors/"
+    },
+    
+     {
+      "name": "Pratyaksh Khurana",
+      "github_username": "pratyaksh1610",
+      "image_url": "https://avatars.githubusercontent.com/pratyaksh1610",
+      "title": "Birthday-Wishing-App",
+      "short_description": "A birthday-greet app made using Kotlin programming language",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/birthday_wishing_app/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/birthday_wishing_app/"
     }
  
   ]
