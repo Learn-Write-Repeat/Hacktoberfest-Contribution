@@ -1,0 +1,18 @@
+<h1>Headlines</h1>
+
+<mat-card *ngFor= "let article of articles"  >
+    
+    <img src="{{article.urlToImage}}" class="Image" alt="Image not available">
+    <mat-card-title >{{article.title}}</mat-card-title>
+    <mat-card-subtitle>
+        {{article.author}}
+        {{article.publishedAt}}
+    </mat-card-subtitle>
+    <mat-card-content  >     
+        {{article.description}}
+    </mat-card-content>
+    <mat-card-action>
+        <a mat-stroked-button href='{{article.url}}'>Details</a>
+    </mat-card-action>
+    
+</mat-card>
