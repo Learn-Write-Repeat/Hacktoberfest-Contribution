@@ -630,6 +630,15 @@
       "short_description": "A birthday-greet app made using Kotlin programming language",
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/birthday_wishing_app/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/birthday_wishing_app/"
+    },
+    {
+      "name": "Srishti Sharma",
+      "github_username": "srishtis19",
+      "image_url": "https://avatars.githubusercontent.com/u/81479041?v=4",
+      "title": "News Website",
+      "short_description": "This is a single component Angular application which displays latest news in the form of responsive news cards",
+      "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/News_Website/",
+      "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/News_Website/"
     }
  
   ]
