@@ -39,9 +39,7 @@ We do not recommend adding just a white-space or Hello World application. Please
 - [Contributors](#contributors)
 
 ## Hacktoberfest
-
 ![Hacktoberfest](https://i.imgur.com/pZaosIp.png)
-
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a global challenge organized by DigitalOcean. It encourages participation in giving back to the open-source community by completing pull requests and participating in events. You can sign up anytime between 1 and October 31. Pull requests can be submitted to this repo or any opted-in GitHub or GitLab repo. To get a T-shirt :tshirt:, you must make 4 approved pull requests (PRs). :tada:
 
 [![Learn more](https://img.shields.io/badge/-Learn%20more-orange?style=plastic)](https://hacktoberfest.digitalocean.com/resources/participation)
@@ -113,11 +111,11 @@ Once you are ready with the setup, follow the below guidelines:
             "folder_url":"https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/python-api-tutorial"
         },
         {
-            "name": "Your Name Here",
-            "github_username": "Your Github Username Here",
-            "image_url": "Your Image URL",
-            "title": "Title of your Contribution",
-            "short_description": "Short description of your contribution",
+            "name": "Rayyan Baig",
+            "github_username": "Rayyanbaig1243",
+            "image_url": "https://avatars.githubusercontent.com/u/137826567?s=400&u=f6327df3b98541d6d6a446762c499c3b702bb209&v=4",
+            "title": "PYTHON",
+            "short_description": "In this Python tutorial, we’ll learn how to retrieve data using requests library. There are millions of APIs online which provide access to data",
             "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/<your-folder-name>/",
             "folder_url":"https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/<your-folder-name>/"
         }
